@@ -7,10 +7,11 @@ imap_server = 'imap.gmail.com'
 imap_port = 993  # SSL port
 
 # Your Gmail credentials (use App Password if 2FA is enabled)
-#email_add_g = 'info@argotek.com.ph'
-#app_password_g  = 'qhrf mkkv xtzd irqx'
-email_add_g = 'rkveroncruz@argotek.com.ph'
-app_password_g  = 'bcjj pkyo zunh vfax'
+email_add_g = 'info@argotek.com.ph'
+app_password_g  = 'elbj unos lcaa wiud'
+
+#email_add_g = 'rkveroncruz@argotek.com.ph'
+#app_password_g  = 'bcjj pkyo zunh vfax'
 
 def read_emails(email_address, password, folder='INBOX', search_criteria='ALL'):
     try:
