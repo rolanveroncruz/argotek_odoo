@@ -1,6 +1,6 @@
 import openpyxl as xl
 import xmlrpc.client
-from Config import Config
+from ProdConfig import Config
 
 
 def get_config() -> Config:
