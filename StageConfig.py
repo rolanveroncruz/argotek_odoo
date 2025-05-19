@@ -5,7 +5,7 @@ class Config:
     """
     A class to load and store environment variables from a .env file.
     """
-    def __init__(self, dotenv_path="prod.env"):
+    def __init__(self, dotenv_path="stage.env"):
         """
         Initializes the Config class by loading environment variables from a .env file.
 
@@ -17,10 +17,10 @@ class Config:
         # Load each environment variable, and if it does not exist
         # raise an error.  You might want to modify this behavior.
 
-        self.HOST = os.environ.get("HOST_PROD")
-        self.DB = os.environ.get("DB_PROD")
-        self.USER_EMAIL = os.environ.get("USER_EMAIL_PROD")
-        self.API_KEY = os.environ.get("API_KEY_PROD")
+        self.HOST = os.environ.get("HOST_STAGE")
+        self.DB = os.environ.get("DB_STAGE")
+        self.USER_EMAIL = os.environ.get("USER_EMAIL")
+        self.API_KEY = os.environ.get("API_KEY_STAGE")
 
         # Example of converting to a specific type (important for type safety)
         if self.HOST is None:
@@ -39,5 +39,5 @@ class Config:
         """
         Returns a string representation of the Config object.  Useful for debugging.
         """
-        return (f"Config(HOST={self.HOST}, DB='{self.DB}', USER={self.USER_EMAIL}, "
+        return (f"Config(HOST={self.HOST}, DB='{self.DB}', USER={self.USER}, "
                 f"API_KEY='{self.API_KEY}'")
