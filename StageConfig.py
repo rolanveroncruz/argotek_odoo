@@ -39,5 +39,5 @@ class Config:
         """
         Returns a string representation of the Config object.  Useful for debugging.
         """
-        return (f"Config(HOST={self.HOST}, DB='{self.DB}', USER={self.USER}, "
+        return (f"Config(HOST={self.HOST}, DB='{self.DB}', USER={self.USER_EMAIL}, "
                 f"API_KEY='{self.API_KEY}'")

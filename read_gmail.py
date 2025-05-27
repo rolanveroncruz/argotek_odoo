@@ -2,6 +2,8 @@ import imaplib
 import email
 from email.header import decode_header
 
+from read_gmail_and_post_as_lead import decode_header_str
+
 # Gmail IMAP server details
 imap_server = 'imap.gmail.com'
 imap_port = 993  # SSL port
@@ -18,14 +20,33 @@ def read_emails(email_address, password, folder='INBOX', search_criteria='ALL'):
         # Connect to the IMAP server
         mail = imaplib.IMAP4_SSL(imap_server, imap_port)
         mail.login(email_address, password)
+        print("Logged in to IMAP server.")
+
+        status, mailboxes = mail.list()
+        if status == 'OK':
+             print("Available mailboxes (labels):")
+             for mailbox in mailboxes:
+                 print(mailbox.decode())
+        else:
+             print(f"Error listing mailboxes: {mailboxes}")
+
 
         # Select the mailbox (e.g., INBOX, Sent, Drafts)
-        mail.select(folder)
+        mail.select(folder, readonly=True)
 
         # Search for emails based on criteria (e.g., 'ALL', 'UNSEEN', 'FROM "sender@example.com"')
         status, email_ids = mail.search(None, search_criteria)
+        leads = []
         if status == 'OK':
-            for email_id in email_ids[0].split():
+            """
+            Iterate through the emails here
+            """
+
+            for idx, email_id in enumerate(email_ids[0].split()):
+                print(f"Email #{idx+1}:")
+                lead ={}
+                if idx >= 9:
+                    break
                 # Fetch the email
                 status, msg_data = mail.fetch(email_id, '(RFC822)')
                 if status == 'OK':
@@ -45,15 +66,23 @@ def read_emails(email_address, password, folder='INBOX', search_criteria='ALL'):
                                 parts.append(part)
                         return ''.join(parts)
 
+                    message_id = decode_header_str(msg['Message-ID'])
                     subject = decode_header_str(msg['Subject'])
                     from_addr = decode_header_str(msg['From'])
                     date = msg['Date']
 
+                    lead['message_id'] = message_id
+                    lead['subject'] = subject
+                    lead['from_addr'] = from_addr
+                    lead['date'] = date
+
+                    print(f"Message_id: {message_id}")
                     print(f"Subject: {subject}")
                     print(f"From: {from_addr}")
                     print(f"Date: {date}")
 
                     # You can now process the email content
+                    print(f"message is multipart: {msg.is_multipart()}")
                     if msg.is_multipart():
                         for part in msg.walk():
                             content_type = part.get_content_type()
@@ -102,7 +131,7 @@ def read_emails(email_address, password, folder='INBOX', search_criteria='ALL'):
         print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
-    read_emails(email_add_g, app_password_g, folder='INBOX', search_criteria='ALL')
+    read_emails(email_add_g, app_password_g, folder='"APSI Sales Inquiries"', search_criteria='ALL')
     # You can change the folder and search criteria as needed
     # For example, to read only unread emails in the Inbox:
     # read_emails(email_address, password, folder='INBOX', search_criteria='UNSEEN')

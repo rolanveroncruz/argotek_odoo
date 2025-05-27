@@ -1,6 +1,6 @@
 import openpyxl as xl
 import xmlrpc.client
-from DevConfig import Config
+from StageConfig import Config
 
 
 def get_config() -> Config:
@@ -11,8 +11,9 @@ def get_config() -> Config:
 def get_rpc_info(config:Config)-> int:
     info = xmlrpc.client.ServerProxy(f"{config.HOST}/xmlrpc/2/common")
     print(f"version:{info.version()}")
+    print(f"authenticating...")
+    print(f"user:{config.USER_EMAIL}, api_key:{config.API_KEY}")
     uid = info.authenticate(config.DB, config.USER_EMAIL, config.API_KEY, {})
-    print(f"uid:{uid}")
     return uid
 
 def upload_lead(config:Config, uid:int, lead: object) -> int:
@@ -37,7 +38,7 @@ def main():
         'contact_name': 'Jane Doe',
         'description': 'This is a test lead created from XML-RPC.',
         # Add other relevant fields
-        'user_id': 14, # Noel Picaso
+        'user_id': 6, # Noel Picaso
     }
 
     lead_id = upload_lead(config, uid ,lead_data)
