@@ -4,6 +4,7 @@ from email.header import decode_header
 from typing import Any
 from post_leads import get_config, get_rpc_info, upload_lead
 import os
+import datetime
 
 
 class Lead:
@@ -159,6 +160,13 @@ def extract_body(msg) -> str:
 
 
 if __name__ == "__main__":
+    print("")
+    print("")
+    print("**********")
+    print("")
+    print(f"{datetime.datetime.now()}")
+    print("")
+    print("**********")
     # leads is [Lead]
     leads = read_emails(email_add_g, app_password_g, folder='"APSI Sales Inquiries"', search_criteria='ALL')
     config = get_config()
@@ -167,8 +175,6 @@ if __name__ == "__main__":
         print("uid is False, exiting...")
         exit(1)
     print(f"uid:{uid}")
-    for lead in leads:
-        print(f"{lead}\n")
     set_file = "data/email_message_ids.txt"
     message_id_set = set()
     if os.path.exists(set_file):
