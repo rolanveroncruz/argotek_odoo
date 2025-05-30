@@ -6,6 +6,21 @@ from post_leads import get_config, get_rpc_info, upload_lead
 import os
 
 
+class Lead:
+    def __init__(self, message_id:str, count:int, email_id:bytes, subject:str, from_name:str, from_addr:str, date:str, body:str):
+        self.count = count
+        self.email_id = email_id
+        self.message_id = message_id
+        self.subject = subject
+        self.from_name = from_name
+        self.from_addr = from_addr
+        self.date = date
+        self.body = body
+
+    def __str__(self):
+        return f"Lead: #{self.count}\n message_id:{self.message_id}\n  date:{self.date}\n from {self.from_name} <{self.from_addr}>\n subject:{self.subject}\n"
+
+
 # Gmail IMAP server details
 imap_server = 'imap.gmail.com'
 imap_port = 993  # SSL port
@@ -17,7 +32,7 @@ app_password_g  = 'elbj unos lcaa wiud'
 #email_add_g = 'rkveroncruz@argotek.com.ph'
 #app_password_g  = 'bcjj pkyo zunh vfax'
 
-def read_emails(email_address, password, folder='INBOX', search_criteria='ALL') -> list[object]:
+def read_emails(email_address, password, folder='INBOX', search_criteria='ALL') -> list[Lead]:
     leads = []
     try:
         # Connect to the IMAP server
@@ -45,7 +60,6 @@ def read_emails(email_address, password, folder='INBOX', search_criteria='ALL') 
             """
 
             for idx, email_id in enumerate(email_ids[0].split()):
-                lead ={}
                 # Fetch the email
                 status, msg_data = mail.fetch(email_id, '(RFC822)')
                 if status == 'OK':
@@ -57,21 +71,19 @@ def read_emails(email_address, password, folder='INBOX', search_criteria='ALL') 
                     subject = decode_header_str(msg['Subject'])
                     from_addr = decode_header_str(msg['From'])
                     message_id_str = decode_header_str(msg['Message-ID'])
-
                     date = msg['Date']
-                    lead['message_id'] = message_id_str
-                    lead['count'] = idx+1
-                    lead['email_id'] = email_id
-                    lead['subject'] = subject
-                    lead['from_addr'] = parse_sender(from_addr)
-                    lead['date'] = date
+                    try:
+                        body = extract_body(msg)
+                    except Exception as e:
+                        print(f"Error extracting body: {e}")
+                        body = "Error extracting body"
 
-
+                    from_name = parse_sender(from_addr)['name']
+                    from_addr = parse_sender(from_addr)['email']
+                    lead=Lead(message_id=message_id_str,count=idx+1, email_id=email_id, subject=subject,
+                              from_name=from_name, from_addr=from_addr, date=date, body=body)
 
                     # You can now process the email content
-                    body = extract_body(msg)
-                    lead['body'] = body
-
                     leads.append(lead)
 
         else:
@@ -147,6 +159,7 @@ def extract_body(msg) -> str:
 
 
 if __name__ == "__main__":
+    # leads is [Lead]
     leads = read_emails(email_add_g, app_password_g, folder='"APSI Sales Inquiries"', search_criteria='ALL')
     config = get_config()
     uid = get_rpc_info(config)
@@ -154,7 +167,8 @@ if __name__ == "__main__":
         print("uid is False, exiting...")
         exit(1)
     print(f"uid:{uid}")
-    print(f"leads:{leads}")
+    for lead in leads:
+        print(f"{lead}\n")
     set_file = "data/email_message_ids.txt"
     message_id_set = set()
     if os.path.exists(set_file):
@@ -163,18 +177,19 @@ if __name__ == "__main__":
                 message_id_set.add(line.strip())
 
     for lead in leads:
-        message_id = lead['message_id']
+        message_id = lead.message_id
         lead_data = {
-            'name': lead['subject'],
-            'email_from': lead['from_addr']['email'],
+            'name': lead.subject,
+            'email_from': lead.from_name + '<' + lead.from_addr + '>',
             'phone': '123-456-7890',
-            'contact_name': lead['from_addr']['name'],
-            'description': lead['body'],
+            'contact_name': lead.from_name,
+            'description': lead.body,
             # Add other relevant fields
-            'user_id': 6, # Rolan Veron Cruz
+            'user_id': 7, # Noel Picaso
             }
         if message_id not in message_id_set:
             lead_id = upload_lead(config, uid ,lead_data)
+            print(f"uploaded lead:{lead}\n")
             message_id_set.add(message_id)
             print(f"adding to set: message_id:{message_id}")
 
@@ -182,3 +197,5 @@ if __name__ == "__main__":
     with open(set_file, "w") as f:
      for message_id in message_id_set:
          f.write(f"{message_id}\n")
+
+    print("DONE.")
