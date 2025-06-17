@@ -175,7 +175,7 @@ if __name__ == "__main__":
         print("uid is False, exiting...")
         exit(1)
     print(f"uid:{uid}")
-    set_file = "data/email_message_ids.txt"
+    set_file = "/Volumes/RVC/Projects/argotek_odoo/data/email_message_ids.txt"
     message_id_set = set()
     if os.path.exists(set_file):
         with open(set_file, "r") as f:

@@ -1,17 +1,18 @@
 import os
 from dotenv import load_dotenv
 
-class Config:
+class StageConfig:
     """
     A class to load and store environment variables from a .env file.
     """
-    def __init__(self, dotenv_path="stage.env"):
+    def __init__(self, dotenv_path="/Volumes/RVC/Projects/argotek_odoo/stage.env"):
         """
         Initializes the Config class by loading environment variables from a .env file.
 
         Args:
             dotenv_path (str, optional): The path to the .env file. Defaults to ".env".
         """
+        print(f"loading stage config...from {dotenv_path} ")
         load_dotenv(dotenv_path=dotenv_path)  # Load variables from .env
 
         # Load each environment variable, and if it does not exist

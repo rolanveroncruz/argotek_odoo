@@ -1,6 +1,6 @@
 import openpyxl as xl
 import xmlrpc.client
-from StageConfig import Config
+from StageConfig import StageConfig as Config
 
 
 def get_config() -> Config:
