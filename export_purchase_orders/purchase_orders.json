@@ -1,0 +1,1061 @@
+[
+    {
+        "PO_Reference": "P00032",
+        "Order_Date": "2025-07-15 07:37:24",
+        "Vendor": "Trimble",
+        "Total_Amount": 2299.5,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[TA-GENGNSS-YR-00] Trimble Access - GNSS Only General Survey; per year subscription",
+                "description": "[TA-GENGNSS-YR-00] Trimble Access - GNSS Only General Survey; per year subscription",
+                "quantity": 1.0,
+                "unit_price": 696.5,
+                "subtotal": 696.5
+            },
+            {
+                "product_name": "TPP - Software Maintenance - Trimble Access Reinstatement (12 month expiration)",
+                "description": "TPP - Software Maintenance - Trimble Access Reinstatement (12 month expiration)",
+                "quantity": 1.0,
+                "unit_price": 626.5,
+                "subtotal": 626.5
+            },
+            {
+                "product_name": "[TBC-ADV-RNST-STOCK] TPP - Software Maintenance - Survey Trimble Business Center Advanced RNST (12 month expiration)",
+                "description": "[TBC-ADV-RNST-STOCK] TPP - Software Maintenance - Survey Trimble Business Center Advanced RNST (12 month expiration)",
+                "quantity": 1.0,
+                "unit_price": 976.5,
+                "subtotal": 976.5
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00031",
+        "Order_Date": "2025-07-15 07:14:26",
+        "Vendor": "Trimble",
+        "Total_Amount": 16814.0,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module",
+                "description": "[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module",
+                "quantity": 6.0,
+                "unit_price": 31.5,
+                "subtotal": 189.0
+            },
+            {
+                "product_name": "[89854-00] Trimble R10 Accessory - UHF Radio Antenna with SMA Connector (410-470 MHz, 0 dB)",
+                "description": "[89854-00] Trimble R10 Accessory - UHF Radio Antenna with SMA Connector (410-470 MHz, 0 dB)",
+                "quantity": 4.0,
+                "unit_price": 49.0,
+                "subtotal": 196.0
+            },
+            {
+                "product_name": "[44085-60-SUR] UHF Radio, TNC, 410-470 MHz, 5\", Whip (Survey) - Qty 5",
+                "description": "[44085-60-SUR] UHF Radio, TNC, 410-470 MHz, 5\", Whip (Survey) - Qty 5",
+                "quantity": 2.0,
+                "unit_price": 245.0,
+                "subtotal": 490.0
+            },
+            {
+                "product_name": "[82752-00] Trimble TSC3 Accessory - International Power Supply Kit",
+                "description": "[82752-00] Trimble TSC3 Accessory - International Power Supply Kit",
+                "quantity": 6.0,
+                "unit_price": 91.0,
+                "subtotal": 546.0
+            },
+            {
+                "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+                "description": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+                "quantity": 5.0,
+                "unit_price": 465.5,
+                "subtotal": 2327.5
+            },
+            {
+                "product_name": "[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",
+                "description": "[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",
+                "quantity": 4.0,
+                "unit_price": 150.5,
+                "subtotal": 602.0
+            },
+            {
+                "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+                "description": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+                "quantity": 4.0,
+                "unit_price": 43.75,
+                "subtotal": 175.0
+            },
+            {
+                "product_name": "[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m)",
+                "description": "[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m)",
+                "quantity": 3.0,
+                "unit_price": 213.5,
+                "subtotal": 640.5
+            },
+            {
+                "product_name": "[82750-00] Trimble TSC3 Accessory - Rechargeable Battery incl. Battery Door",
+                "description": "[82750-00] Trimble TSC3 Accessory - Rechargeable Battery incl. Battery Door",
+                "quantity": 4.0,
+                "unit_price": 108.5,
+                "subtotal": 434.0
+            },
+            {
+                "product_name": "[78607007] Accessory - Tribrach without optical plumb",
+                "description": "[78607007] Accessory - Tribrach without optical plumb",
+                "quantity": 1.0,
+                "unit_price": 241.5,
+                "subtotal": 241.5
+            },
+            {
+                "product_name": "[82755-00] Trimble TSC3 Accessory - Hand Strap",
+                "description": "[82755-00] Trimble TSC3 Accessory - Hand Strap",
+                "quantity": 9.0,
+                "unit_price": 14.0,
+                "subtotal": 126.0
+            },
+            {
+                "product_name": "[74451-94] TDL 450H - Radio System Kit; 430-450 MHz",
+                "description": "[74451-94] TDL 450H - Radio System Kit; 430-450 MHz",
+                "quantity": 1.0,
+                "unit_price": 2446.5,
+                "subtotal": 2446.5
+            },
+            {
+                "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+                "description": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+                "quantity": 2.0,
+                "unit_price": 497.0,
+                "subtotal": 994.0
+            },
+            {
+                "product_name": "[43169-10] Rod - 2.0m Carbon Fiber Range Pole without Bipod",
+                "description": "[43169-10] Rod - 2.0m Carbon Fiber Range Pole without Bipod",
+                "quantity": 4.0,
+                "unit_price": 252.0,
+                "subtotal": 1008.0
+            },
+            {
+                "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+                "description": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+                "quantity": 4.0,
+                "unit_price": 1004.5,
+                "subtotal": 4018.0
+            },
+            {
+                "product_name": "[82758-10] Trimble TSC3 Accessory - Light Weight Range Pole Bracket",
+                "description": "[82758-10] Trimble TSC3 Accessory - Light Weight Range Pole Bracket",
+                "quantity": 4.0,
+                "unit_price": 143.5,
+                "subtotal": 574.0
+            },
+            {
+                "product_name": "[82764-00] Trimble TSC3 Accessory - Standard Carry Case",
+                "description": "[82764-00] Trimble TSC3 Accessory - Standard Carry Case",
+                "quantity": 9.0,
+                "unit_price": 31.5,
+                "subtotal": 283.5
+            },
+            {
+                "product_name": "[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10)",
+                "description": "[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10)",
+                "quantity": 1.0,
+                "unit_price": 1288.0,
+                "subtotal": 1288.0
+            },
+            {
+                "product_name": "[118831] Trimble TDC600 Accessory - Screen Protector (3 pack)",
+                "description": "[118831] Trimble TDC600 Accessory - Screen Protector (3 pack)",
+                "quantity": 1.0,
+                "unit_price": 31.5,
+                "subtotal": 31.5
+            },
+            {
+                "product_name": "[118835-00] TDC600 Dual Battery Charger,BA7800 3.8V 8000mAh,Gang Charger with AC Adapter-batteries not included",
+                "description": "[118835-00] TDC600 Dual Battery Charger,BA7800 3.8V 8000mAh,Gang Charger with AC Adapter-batteries not included",
+                "quantity": 1.0,
+                "unit_price": 203.0,
+                "subtotal": 203.0
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00030",
+        "Order_Date": "2025-07-15 07:02:51",
+        "Vendor": "Trimble",
+        "Total_Amount": 2145.0,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[EWLS-SX12-STOCK] TPP - Hardware - SX12 Scanning Total Station w/Calibration (12m expiration)",
+                "description": "[EWLS-SX12-STOCK] TPP - Hardware - SX12 Scanning Total Station w/Calibration (12m expiration)",
+                "quantity": 1.0,
+                "unit_price": 1863.75,
+                "subtotal": 1863.75
+            },
+            {
+                "product_name": "[EWLS-TAB-STOCK] TPP - Hardware - T100, T10x, or T7 Tablet (12m expiration)",
+                "description": "[EWLS-TAB-STOCK] TPP - Hardware - T100, T10x, or T7 Tablet (12m expiration)",
+                "quantity": 1.0,
+                "unit_price": 281.25,
+                "subtotal": 281.25
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00029",
+        "Order_Date": "2025-07-15 06:53:58",
+        "Vendor": "Trimble",
+        "Total_Amount": 41637.75,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[X9-100-00-T100] Trimble X9 Kit with T100 Tablet (Worldwide)",
+                "description": "[X9-100-00-T100] Trimble X9 Kit with T100 Tablet (Worldwide)",
+                "quantity": 1.0,
+                "unit_price": 37625.25,
+                "subtotal": 37625.25
+            },
+            {
+                "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+                "description": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+                "quantity": 1.0,
+                "unit_price": 332.5,
+                "subtotal": 332.5
+            },
+            {
+                "product_name": "[63610-00] Trimble Business Center Advanced - Dongle License",
+                "description": "[63610-00] Trimble Business Center Advanced - Dongle License",
+                "quantity": 1.0,
+                "unit_price": 2302.5,
+                "subtotal": 2302.5
+            },
+            {
+                "product_name": "[63603-00] Add Scanning to Hardware Key (Reqs key ID, min. Survey Advanced Edition)",
+                "description": "[63603-00] Add Scanning to Hardware Key (Reqs key ID, min. Survey Advanced Edition)",
+                "quantity": 1.0,
+                "unit_price": 1377.5,
+                "subtotal": 1377.5
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00028",
+        "Order_Date": "2025-07-15 06:51:52",
+        "Vendor": "Trimble",
+        "Total_Amount": 2747.5,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[63616-00] Add Aerial Photogrammetry to Hardware Key (Reqs Key ID, min. Surface Modeling)",
+                "description": "[63616-00] Add Aerial Photogrammetry to Hardware Key (Reqs Key ID, min. Surface Modeling)",
+                "quantity": 1.0,
+                "unit_price": 2747.5,
+                "subtotal": 2747.5
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00027",
+        "Order_Date": "2025-07-15 06:17:01",
+        "Vendor": "Trimble",
+        "Total_Amount": 87341.25,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+                "description": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+                "quantity": 10.0,
+                "unit_price": 3160.0,
+                "subtotal": 31600.0
+            },
+            {
+                "product_name": "[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode",
+                "description": "[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode",
+                "quantity": 5.0,
+                "unit_price": 1785.0,
+                "subtotal": 8925.0
+            },
+            {
+                "product_name": "[R780-OPT-001-26] Trimble R780 Option - BeiDou",
+                "description": "[R780-OPT-001-26] Trimble R780 Option - BeiDou",
+                "quantity": 5.0,
+                "unit_price": 216.0,
+                "subtotal": 1080.0
+            },
+            {
+                "product_name": "[R780-OPT-001-27] Trimble R780 Option - Galileo",
+                "description": "[R780-OPT-001-27] Trimble R780 Option - Galileo",
+                "quantity": 5.0,
+                "unit_price": 216.0,
+                "subtotal": 1080.0
+            },
+            {
+                "product_name": "[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode",
+                "description": "[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode",
+                "quantity": 5.0,
+                "unit_price": 2951.0,
+                "subtotal": 14755.0
+            },
+            {
+                "product_name": "[R780-OPT-001-51] Trimble R780 Option - NMEA outputs",
+                "description": "[R780-OPT-001-51] Trimble R780 Option - NMEA outputs",
+                "quantity": 5.0,
+                "unit_price": 56.0,
+                "subtotal": 280.0
+            },
+            {
+                "product_name": "[12179] Tribrach - 3 Pin with Optical Plummet",
+                "description": "[12179] Tribrach - 3 Pin with Optical Plummet",
+                "quantity": 5.0,
+                "unit_price": 343.75,
+                "subtotal": 1718.75
+            },
+            {
+                "product_name": "[12180] Adapter - Tribrach to 5/8, with Removable Center",
+                "description": "[12180] Adapter - Tribrach to 5/8, with Removable Center",
+                "quantity": 5.0,
+                "unit_price": 85.25,
+                "subtotal": 426.25
+            },
+            {
+                "product_name": "[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",
+                "description": "[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",
+                "quantity": 5.0,
+                "unit_price": 88.0,
+                "subtotal": 440.0
+            },
+            {
+                "product_name": "[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever",
+                "description": "[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever",
+                "quantity": 5.0,
+                "unit_price": 107.25,
+                "subtotal": 536.25
+            },
+            {
+                "product_name": "[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey)",
+                "description": "[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey)",
+                "quantity": 5.0,
+                "unit_price": 275.0,
+                "subtotal": 1375.0
+            },
+            {
+                "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+                "description": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+                "quantity": 15.0,
+                "unit_price": 266.0,
+                "subtotal": 3990.0
+            },
+            {
+                "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+                "description": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+                "quantity": 20.0,
+                "unit_price": 43.75,
+                "subtotal": 875.0
+            },
+            {
+                "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+                "description": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+                "quantity": 5.0,
+                "unit_price": 248.5,
+                "subtotal": 1242.5
+            },
+            {
+                "product_name": "[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10)",
+                "description": "[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10)",
+                "quantity": 3.0,
+                "unit_price": 828.0,
+                "subtotal": 2484.0
+            },
+            {
+                "product_name": "[117057-GEO-BKT] Pole Bracket, Trimble TDC600 Worldwide",
+                "description": "[117057-GEO-BKT] Pole Bracket, Trimble TDC600 Worldwide",
+                "quantity": 3.0,
+                "unit_price": 162.0,
+                "subtotal": 486.0
+            },
+            {
+                "product_name": "Trimble TSC7 controller - QWERTY keypad, USB/Serial boot, APAC region, Standalone",
+                "description": "Trimble TSC7 controller - QWERTY keypad, USB/Serial boot, APAC region, Standalone",
+                "quantity": 2.0,
+                "unit_price": 2567.5,
+                "subtotal": 5135.0
+            },
+            {
+                "product_name": "[121349-01-1] Trimble TSC7 Accessory - Pole Mount",
+                "description": "[121349-01-1] Trimble TSC7 Accessory - Pole Mount",
+                "quantity": 2.0,
+                "unit_price": 132.0,
+                "subtotal": 264.0
+            },
+            {
+                "product_name": "[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag",
+                "description": "[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag",
+                "quantity": 5.0,
+                "unit_price": 52.25,
+                "subtotal": 261.25
+            },
+            {
+                "product_name": "[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License",
+                "description": "[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License",
+                "quantity": 5.0,
+                "unit_price": 736.0,
+                "subtotal": 3680.0
+            },
+            {
+                "product_name": "[63615-00] Add Aerial Photogrammetry to Software Key Lic (Reqs Key ID, min. Surface Modeling, match # of seats)",
+                "description": "[63615-00] Add Aerial Photogrammetry to Software Key Lic (Reqs Key ID, min. Surface Modeling, match # of seats)",
+                "quantity": 1.0,
+                "unit_price": 3022.25,
+                "subtotal": 3022.25
+            },
+            {
+                "product_name": "[EWLS-X7] TPP - Hardware - X7 Scanner (self-calibrates, no calibration included)",
+                "description": "[EWLS-X7] TPP - Hardware - X7 Scanner (self-calibrates, no calibration included)",
+                "quantity": 2.0,
+                "unit_price": 1273.25,
+                "subtotal": 2546.5
+            },
+            {
+                "product_name": "[EWLS-PERS-STOCK] TPP - Software - Perspective (12 month expiration)",
+                "description": "[EWLS-PERS-STOCK] TPP - Software - Perspective (12 month expiration)",
+                "quantity": 2.0,
+                "unit_price": 363.0,
+                "subtotal": 726.0
+            },
+            {
+                "product_name": "[EWLS-TAB-STOCK] TPP - Hardware - T100, T10x, or T7 Tablet (12m expiration)",
+                "description": "[EWLS-TAB-STOCK] TPP - Hardware - T100, T10x, or T7 Tablet (12m expiration)",
+                "quantity": 2.0,
+                "unit_price": 206.25,
+                "subtotal": 412.5
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00026",
+        "Order_Date": "2025-07-15 05:49:14",
+        "Vendor": "Trimble",
+        "Total_Amount": 2289.0,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[58026020] Traverse Prism with AR Coating",
+                "description": "[58026020] Traverse Prism with AR Coating",
+                "quantity": 2.0,
+                "unit_price": 350.0,
+                "subtotal": 700.0
+            },
+            {
+                "product_name": "[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey)",
+                "description": "Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey)",
+                "quantity": 1.0,
+                "unit_price": 350.0,
+                "subtotal": 350.0
+            },
+            {
+                "product_name": "[73840019] INSTR./ADV. HOLDER TO PC CON. CABLE",
+                "description": "[73840019] INSTR./ADV. HOLDER TO PC CON. CABLE",
+                "quantity": 2.0,
+                "unit_price": 52.5,
+                "subtotal": 105.0
+            },
+            {
+                "product_name": "[121320-01-1] Trimble Accessory - Rechargeable Battery 2-pack",
+                "description": "[121320-01-1] Trimble Accessory - Rechargeable Battery 2-pack",
+                "quantity": 2.0,
+                "unit_price": 175.0,
+                "subtotal": 350.0
+            },
+            {
+                "product_name": "[109000] Dual Slot Charger without Cables or Power Supply",
+                "description": "[109000] Dual Slot Charger without Cables or Power Supply",
+                "quantity": 2.0,
+                "unit_price": 392.0,
+                "subtotal": 784.0
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00025",
+        "Order_Date": "2025-07-15 05:41:06",
+        "Vendor": "Trimble",
+        "Total_Amount": 4750.2,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[TBC-EDU-ALL-00] TBC TUPP Education Program - 10-seat Software Key License",
+                "description": "[TBC-EDU-ALL-00] TBC TUPP Education Program - 10-seat Software Key License",
+                "quantity": 2.0,
+                "unit_price": 787.5,
+                "subtotal": 1575.0
+            },
+            {
+                "product_name": "[109695-00] Trimble Catalyst DA2 Receiver Packout",
+                "description": "[109695-00] Trimble Catalyst DA2 Receiver Packout",
+                "quantity": 1.0,
+                "unit_price": 207.5,
+                "subtotal": 207.5
+            },
+            {
+                "product_name": "[TA-GNSSCAT-YR-00] Trimble Access GNSS only with Catalyst Survey",
+                "description": "[TA-GNSSCAT-YR-00] Trimble Access GNSS only with Catalyst Survey",
+                "quantity": 1.0,
+                "unit_price": 679.7,
+                "subtotal": 679.7
+            },
+            {
+                "product_name": "[128518-00-BLK-GEO] ANKER PowerCore 5000 Power Bank (5000mAH) (x5)",
+                "description": "[128518-00-BLK-GEO] ANKER PowerCore 5000 Power Bank (5000mAH) (x5)",
+                "quantity": 2.0,
+                "unit_price": 93.5,
+                "subtotal": 187.0
+            },
+            {
+                "product_name": "[109218-BLK-GEO] Pouch, Trimble Catalyst (5 pack)",
+                "description": "[109218-BLK-GEO] Pouch, Trimble Catalyst (5 pack)",
+                "quantity": 1.0,
+                "unit_price": 75.0,
+                "subtotal": 75.0
+            },
+            {
+                "product_name": "[TBC-SAM-YR-00-G] Trimble Business Center Survey and Mapping - Annually, Per Seat",
+                "description": "[TBC-SAM-YR-00-G] Trimble Business Center Survey and Mapping - Annually, Per Seat",
+                "quantity": 1.0,
+                "unit_price": 1198.0,
+                "subtotal": 1198.0
+            },
+            {
+                "product_name": "[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10)",
+                "description": "[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10)",
+                "quantity": 1.0,
+                "unit_price": 828.0,
+                "subtotal": 828.0
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00023",
+        "Order_Date": "2025-07-15 05:21:57",
+        "Vendor": "Trimble",
+        "Total_Amount": 360.75,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[R750-OPT-001-32] Trimble R750 Option - Trimble Data Collector support",
+                "description": "[R750-OPT-001-32] Trimble R750 Option - Trimble Data Collector support",
+                "quantity": 1.0,
+                "unit_price": 360.75,
+                "subtotal": 360.75
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00022",
+        "Order_Date": "2025-07-15 05:19:05",
+        "Vendor": "Trimble",
+        "Total_Amount": 360.75,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[R750-OPT-001-32] Trimble R750 Option - Trimble Data Collector support",
+                "description": "[R750-OPT-001-32] Trimble R750 Option - Trimble Data Collector support",
+                "quantity": 1.0,
+                "unit_price": 360.75,
+                "subtotal": 360.75
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00021",
+        "Order_Date": "2025-07-15 05:07:18",
+        "Vendor": "Trimble",
+        "Total_Amount": 143.75,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[52618] Accessories - TAPE MEASURE, METRIC/TENTHS",
+                "description": "[52618] Accessories - TAPE MEASURE, METRIC/TENTHS",
+                "quantity": 1.0,
+                "unit_price": 20.0,
+                "subtotal": 20.0
+            },
+            {
+                "product_name": "[74450-11] TDL 450H Office Power Kit",
+                "description": "[74450-11] TDL 450H Office Power Kit",
+                "quantity": 1.0,
+                "unit_price": 123.75,
+                "subtotal": 123.75
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00020",
+        "Order_Date": "2025-07-15 04:46:41",
+        "Vendor": "Trimble",
+        "Total_Amount": 792.0,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[SX-BP-01] Trimble SX Backpack",
+                "description": "[SX-BP-01] Trimble SX Backpack",
+                "quantity": 2.0,
+                "unit_price": 396.0,
+                "subtotal": 792.0
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00019",
+        "Order_Date": "2025-07-15 04:39:59",
+        "Vendor": "Trimble",
+        "Total_Amount": 875.0,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+                "description": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+                "quantity": 20.0,
+                "unit_price": 43.75,
+                "subtotal": 875.0
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00017",
+        "Order_Date": "2025-06-27 08:19:39",
+        "Vendor": "Trimble",
+        "Total_Amount": 16092.5,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[110471-95] Connectivity bundle, Trimble SX Total Station to T4D (incl. Settop M1, Octohub v2, Cable kit)",
+                "description": "[110471-95] Connectivity bundle, Trimble SX Total Station to T4D (incl. Settop M1, Octohub v2, Cable kit)",
+                "quantity": 1.0,
+                "unit_price": 4956.0,
+                "subtotal": 4956.0
+            },
+            {
+                "product_name": "[MPS865-30-MON] Kit - Monitoring, GNSS, MPS865, 4G, No Radio, with 2x Z3R Antenna (Pre-Configured) (one Z3R Delivered to Region 5)",
+                "description": "[MPS865-30-MON] Kit - Monitoring, GNSS, MPS865, 4G, No Radio, with 2x Z3R Antenna (Pre-Configured) (one Z3R Delivered to Region 5)",
+                "quantity": 1.0,
+                "unit_price": 6497.5,
+                "subtotal": 6497.5
+            },
+            {
+                "product_name": "[SETTOPM1CAB_BIG-MON] Settop M1 Cabinet (LARGE)",
+                "description": "[SETTOPM1CAB_BIG-MON] Settop M1 Cabinet (LARGE)",
+                "quantity": 1.0,
+                "unit_price": 275.0,
+                "subtotal": 275.0
+            },
+            {
+                "product_name": "[LS-G6-KIO-GW-923-MON] Gateway 923 MHz, 4G module and internal 2.6 dBi antenna. Includes antenna (Asia Pacific and LATAM)",
+                "description": "[LS-G6-KIO-GW-923-MON] Gateway 923 MHz, 4G module and internal 2.6 dBi antenna. Includes antenna (Asia Pacific and LATAM)",
+                "quantity": 1.0,
+                "unit_price": 1760.0,
+                "subtotal": 1760.0
+            },
+            {
+                "product_name": "[LS-ACC-SUPGW-03-MON] Vertical Omni-Directional Outdoor Antenna Kit, 3 dBi, 915/923 MHz, 30 cm length",
+                "description": "[LS-ACC-SUPGW-03-MON] Vertical Omni-Directional Outdoor Antenna Kit, 3 dBi, 915/923 MHz, 30 cm length",
+                "quantity": 1.0,
+                "unit_price": 66.5,
+                "subtotal": 66.5
+            },
+            {
+                "product_name": "[LS-G6-TIL90-I-MON] Loadsensing LS-G6, Triaxial Tiltmeter Sensor, Wireless communication with Internal antenna",
+                "description": "[LS-G6-TIL90-I-MON] Loadsensing LS-G6, Triaxial Tiltmeter Sensor, Wireless communication with Internal antenna",
+                "quantity": 4.0,
+                "unit_price": 415.0,
+                "subtotal": 1660.0
+            },
+            {
+                "product_name": "[LS-G6-LAS-TIL90-MON] Loadsensing LS-G6 laser-distance and tilt node",
+                "description": "[LS-G6-LAS-TIL90-MON] Loadsensing LS-G6 laser-distance and tilt node",
+                "quantity": 1.0,
+                "unit_price": 712.5,
+                "subtotal": 712.5
+            },
+            {
+                "product_name": "[LS-ACC-IN15-VP-MON] Wireless tiltmeter vertical mounting plate (aluminium).",
+                "description": "[LS-ACC-IN15-VP-MON] Wireless tiltmeter vertical mounting plate (aluminium).",
+                "quantity": 2.0,
+                "unit_price": 20.5,
+                "subtotal": 41.0
+            },
+            {
+                "product_name": "[LS-ACC-IN15-HP-MON] Horizontal surface mounting plate. Options for attaching: Fasteners or glue.",
+                "description": "[LS-ACC-IN15-HP-MON] Horizontal surface mounting plate. Options for attaching: Fasteners or glue.",
+                "quantity": 3.0,
+                "unit_price": 20.5,
+                "subtotal": 61.5
+            },
+            {
+                "product_name": "[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",
+                "description": "[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",
+                "quantity": 5.0,
+                "unit_price": 12.5,
+                "subtotal": 62.5
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00016",
+        "Order_Date": "2025-06-27 07:57:43",
+        "Vendor": "Trimble",
+        "Total_Amount": 1311.5,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[58957-05] Cable - GPS, 5m, TNC/TNC Rt. Angle",
+                "description": "[58957-05] Cable - GPS, 5m, TNC/TNC Rt. Angle",
+                "quantity": 1.0,
+                "unit_price": 62.5,
+                "subtotal": 62.5
+            },
+            {
+                "product_name": "[52618] Accessories - TAPE MEASURE, METRIC/TENTHS",
+                "description": "[52618] Accessories - TAPE MEASURE, METRIC/TENTHS",
+                "quantity": 2.0,
+                "unit_price": 25.0,
+                "subtotal": 50.0
+            },
+            {
+                "product_name": "[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod",
+                "description": "[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod",
+                "quantity": 2.0,
+                "unit_price": 210.0,
+                "subtotal": 420.0
+            },
+            {
+                "product_name": "[121349-03] Trimble TSC7 Accessory - Pole Mount",
+                "description": "[121349-03] Trimble TSC7 Accessory - Pole Mount",
+                "quantity": 1.0,
+                "unit_price": 144.0,
+                "subtotal": 144.0
+            },
+            {
+                "product_name": "[122906-BLK-GEO] T100 Pole Bracket Long Length",
+                "description": "[122906-BLK-GEO] T100 Pole Bracket Long Length",
+                "quantity": 2.0,
+                "unit_price": 317.5,
+                "subtotal": 635.0
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00015",
+        "Order_Date": "2025-06-27 07:43:20",
+        "Vendor": "Trimble",
+        "Total_Amount": 3270.75,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+                "description": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+                "quantity": 6.0,
+                "unit_price": 355.0,
+                "subtotal": 2130.0
+            },
+            {
+                "product_name": "[63609-00] Trimble Business Center Survey Intermediate - Dongle License",
+                "description": "[63609-00] Trimble Business Center Survey Intermediate - Dongle License",
+                "quantity": 1.0,
+                "unit_price": 1140.75,
+                "subtotal": 1140.75
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00014",
+        "Order_Date": "2025-06-27 07:14:13",
+        "Vendor": "Trimble",
+        "Total_Amount": 1467.0,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[7073139510000] Staff - Invar rod LD 13/b, 3m, code-graduation, with wide staff base",
+                "description": "[7073139510000] Staff - Invar rod LD 13/b, 3m, code-graduation, with wide staff base",
+                "quantity": 1.0,
+                "unit_price": 980.0,
+                "subtotal": 980.0
+            },
+            {
+                "product_name": "[7078030000000] Footplate with steel punch",
+                "description": "[7078030000000] Footplate with steel punch",
+                "quantity": 2.0,
+                "unit_price": 56.0,
+                "subtotal": 112.0
+            },
+            {
+                "product_name": "[59369-00] Holder - 3 pack battery holder",
+                "description": "[59369-00] Holder - 3 pack battery holder",
+                "quantity": 1.0,
+                "unit_price": 126.0,
+                "subtotal": 126.0
+            },
+            {
+                "product_name": "[121990-BLK-GEO] T100 Hand Strap",
+                "description": "[121990-BLK-GEO] T100 Hand Strap",
+                "quantity": 4.0,
+                "unit_price": 62.25,
+                "subtotal": 249.0
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00013",
+        "Order_Date": "2025-06-27 06:59:03",
+        "Vendor": "Trimble",
+        "Total_Amount": 18065.5,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[C520100] Trimble C5 2\" Total Station, w/Trimble Access, Optical Plummet",
+                "description": "[C520100] Trimble C5 2\" Total Station, w/Trimble Access, Optical Plummet",
+                "quantity": 1.0,
+                "unit_price": 4212.5,
+                "subtotal": 4212.5
+            },
+            {
+                "product_name": "[C530100] Trimble C5 3\" Total Station, w/Trimble Access, Optical Plummet",
+                "description": "[C530100] Trimble C5 3\" Total Station, w/Trimble Access, Optical Plummet",
+                "quantity": 1.0,
+                "unit_price": 3965.0,
+                "subtotal": 3965.0
+            },
+            {
+                "product_name": "[C550100] Trimble C5 5\" Total Station, w/Trimble Access, Optical Plummet",
+                "description": "[C550100] Trimble C5 5\" Total Station, w/Trimble Access, Optical Plummet",
+                "quantity": 2.0,
+                "unit_price": 3715.0,
+                "subtotal": 7430.0
+            },
+            {
+                "product_name": "[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod",
+                "description": "[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod",
+                "quantity": 4.0,
+                "unit_price": 200.0,
+                "subtotal": 800.0
+            },
+            {
+                "product_name": "[114111] BPack,Li-Ion,INDUS,3S2P,11.4V,8000mAHr,123x147x18.4mm",
+                "description": "[114111] BPack,Li-Ion,INDUS,3S2P,11.4V,8000mAHr,123x147x18.4mm",
+                "quantity": 4.0,
+                "unit_price": 191.0,
+                "subtotal": 764.0
+            },
+            {
+                "product_name": "[HXE21214] Data Cable - Serial to Nikon, X-Series, Trimble C-Series",
+                "description": "[HXE21214] Data Cable - Serial to Nikon, X-Series, Trimble C-Series",
+                "quantity": 4.0,
+                "unit_price": 37.0,
+                "subtotal": 148.0
+            },
+            {
+                "product_name": "[58024021] Traverse Prism with AR Coating without Sighting Target",
+                "description": "[58024021] Traverse Prism with AR Coating without Sighting Target",
+                "quantity": 4.0,
+                "unit_price": 186.5,
+                "subtotal": 746.0
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00011",
+        "Order_Date": "2025-06-27 06:43:13",
+        "Vendor": "Trimble",
+        "Total_Amount": 1012.5,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+                "description": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+                "quantity": 3.0,
+                "unit_price": 337.5,
+                "subtotal": 1012.5
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00010",
+        "Order_Date": "2025-06-27 06:37:51",
+        "Vendor": "Trimble",
+        "Total_Amount": 2360.0,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[TCU5-00-TA] TCU5 with Trimble Access",
+                "description": "[TCU5-00-TA] TCU5 with Trimble Access",
+                "quantity": 1.0,
+                "unit_price": 2360.0,
+                "subtotal": 2360.0
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00009",
+        "Order_Date": "2025-06-27 06:05:31",
+        "Vendor": "Trimble",
+        "Total_Amount": 374.4,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",
+                "description": "[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",
+                "quantity": 1.0,
+                "unit_price": 122.4,
+                "subtotal": 122.4
+            },
+            {
+                "product_name": "[99511-30] BPack,Li-Ion,INDUS,3S2P,10.8V,6500mAHr,124x74x24.8mm",
+                "description": "[99511-30] BPack,Li-Ion,INDUS,3S2P,10.8V,6500mAHr,124x74x24.8mm",
+                "quantity": 2.0,
+                "unit_price": 126.0,
+                "subtotal": 252.0
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00008",
+        "Order_Date": "2025-06-27 05:46:08",
+        "Vendor": "Trimble",
+        "Total_Amount": 312.5,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[SX-BP-01] Trimble SX Backpack",
+                "description": "[SX-BP-01] Trimble SX Backpack",
+                "quantity": 1.0,
+                "unit_price": 312.5,
+                "subtotal": 312.5
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00007",
+        "Order_Date": "2025-06-27 05:18:35",
+        "Vendor": "Trimble",
+        "Total_Amount": 3397.5,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[63610-00] Trimble Business Center Survey Advanced - Dongle License",
+                "description": "[63610-00] Trimble Business Center Survey Advanced - Dongle License",
+                "quantity": 1.0,
+                "unit_price": 1835.0,
+                "subtotal": 1835.0
+            },
+            {
+                "product_name": "[SX-BP-01] Trimble SX Backpack",
+                "description": "[SX-BP-01] Trimble SX Backpack",
+                "quantity": 5.0,
+                "unit_price": 312.5,
+                "subtotal": 1562.5
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00006",
+        "Order_Date": "2025-06-27 04:08:13",
+        "Vendor": "Trimble",
+        "Total_Amount": 7794.0,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+                "description": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+                "quantity": 12.0,
+                "unit_price": 649.5,
+                "subtotal": 7794.0
+            }
+        ]
+    },
+    {
+        "PO_Reference": "P00005",
+        "Order_Date": "2025-06-27 03:53:20",
+        "Vendor": "Trimble",
+        "Total_Amount": 5140.0,
+        "Currency": "USD",
+        "State": "purchase",
+        "Purchase_Representative": "Catherine Castillo",
+        "Order_Lines": [
+            {
+                "product_name": "[121952-01-GEO] TSC5 Pole Mount Bracket",
+                "description": "[121952-01-GEO] TSC5 Pole Mount Bracket",
+                "quantity": 4.0,
+                "unit_price": 32.5,
+                "subtotal": 130.0
+            },
+            {
+                "product_name": "[115929-03] TDC150 cm",
+                "description": "[115929-03] TDC150 cm",
+                "quantity": 1.0,
+                "unit_price": 4297.5,
+                "subtotal": 4297.5
+            },
+            {
+                "product_name": "[TRW-452-01-D] TRW SOFTWARE - ADVANCED-PLANT (DEALER DEMO - DONGLE LIC)",
+                "description": "[TRW-452-01-D] TRW SOFTWARE - ADVANCED-PLANT (DEALER DEMO - DONGLE LIC)",
+                "quantity": 1.0,
+                "unit_price": 300.0,
+                "subtotal": 300.0
+            },
+            {
+                "product_name": "[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m)",
+                "description": "[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m)",
+                "quantity": 3.0,
+                "unit_price": 137.5,
+                "subtotal": 412.5
+            }
+        ]
+    }
+]
