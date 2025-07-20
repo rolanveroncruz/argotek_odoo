@@ -1,0 +1,354 @@
+serial_number,product_name,product_id,purchase_order_name,purchase_order_id,picking_type,quantity
+APSIGeoS_2023-002-001,[R750-OPT-001-32] Trimble R750 Option - Trimble Data Collector support,43,P00023 (APSIGeoS_2023-002),23,P00023,1.0
+APSIGeoS_2023-003-001,[TBC-EDU-ALL-00] TBC TUPP Education Program - 10-seat Software Key License,44,P00025 (APSIGeoS_2023-003),25,P00025,1.0
+APSIGeoS_2023-003-001,[109695-00] Trimble Catalyst DA2 Receiver Packout,45,P00025 (APSIGeoS_2023-003),25,P00025,1.0
+APSIGeoS_2023-003-001,[TA-GNSSCAT-YR-00] Trimble Access GNSS only with Catalyst Survey,46,P00025 (APSIGeoS_2023-003),25,P00025,1.0
+APSIGeoS_2023-003-001,[128518-00-BLK-GEO] ANKER PowerCore 5000 Power Bank (5000mAH) (x5),152,P00025 (APSIGeoS_2023-003),25,P00025,1.0
+APSIGeoS_2023-003-001,"[109218-BLK-GEO] Pouch, Trimble Catalyst (5 pack)",48,P00025 (APSIGeoS_2023-003),25,P00025,1.0
+APSIGeoS_2023-003-001,"[TBC-SAM-YR-00-G] Trimble Business Center Survey and Mapping - Annually, Per Seat",49,P00025 (APSIGeoS_2023-003),25,P00025,1.0
+APSIGeoS_2023-003-001,[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10),50,P00025 (APSIGeoS_2023-003),25,P00025,1.0
+APSIGeoS_2023-003-002,[TBC-EDU-ALL-00] TBC TUPP Education Program - 10-seat Software Key License,44,P00025 (APSIGeoS_2023-003),25,P00025,1.0
+APSIGeoS_2023-003-002,[128518-00-BLK-GEO] ANKER PowerCore 5000 Power Bank (5000mAH) (x5),152,P00025 (APSIGeoS_2023-003),25,P00025,1.0
+APSIGeoS_2023-005-001,[58026020] Traverse Prism with AR Coating,51,P00026 (APSIGeoS_2023-005),26,P00026,1.0
+APSIGeoS_2023-005-001,[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey),154,P00026 (APSIGeoS_2023-005),26,P00026,1.0
+APSIGeoS_2023-005-001,[73840019] INSTR./ADV. HOLDER TO PC CON. CABLE,53,P00026 (APSIGeoS_2023-005),26,P00026,1.0
+APSIGeoS_2023-005-001,[121320-01-1] Trimble Accessory - Rechargeable Battery 2-pack,54,P00026 (APSIGeoS_2023-005),26,P00026,1.0
+APSIGeoS_2023-005-001,[109000] Dual Slot Charger without Cables or Power Supply,55,P00026 (APSIGeoS_2023-005),26,P00026,1.0
+APSIGeoS_2023-005-002,[58026020] Traverse Prism with AR Coating,51,P00026 (APSIGeoS_2023-005),26,P00026,1.0
+APSIGeoS_2023-005-002,[73840019] INSTR./ADV. HOLDER TO PC CON. CABLE,53,P00026 (APSIGeoS_2023-005),26,P00026,1.0
+APSIGeoS_2023-005-002,[121320-01-1] Trimble Accessory - Rechargeable Battery 2-pack,54,P00026 (APSIGeoS_2023-005),26,P00026,1.0
+APSIGeoS_2023-005-002,[109000] Dual Slot Charger without Cables or Power Supply,55,P00026 (APSIGeoS_2023-005),26,P00026,1.0
+APSIGeoS_2023-006-001,"[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",56,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode,155,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[R780-OPT-001-26] Trimble R780 Option - BeiDou,156,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[R780-OPT-001-27] Trimble R780 Option - Galileo,166,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode,157,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[R780-OPT-001-51] Trimble R780 Option - NMEA outputs,158,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[12179] Tribrach - 3 Pin with Optical Plummet,159,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,"[12180] Adapter - Tribrach to 5/8, with Removable Center",83,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,"[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",94,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever,91,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey),154,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10),50,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,"[117057-GEO-BKT] Pole Bracket, Trimble TDC600 Worldwide",160,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,"Trimble TSC7 controller - QWERTY keypad, USB/Serial boot, APAC region, Standalone",161,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[121349-01-1] Trimble TSC7 Accessory - Pole Mount,101,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag,100,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License,98,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,"[63615-00] Add Aerial Photogrammetry to Software Key Lic (Reqs Key ID, min. Surface Modeling, match # of seats)",162,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,"[EWLS-X7] TPP - Hardware - X7 Scanner (self-calibrates, no calibration included)",163,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,[EWLS-PERS-STOCK] TPP - Software - Perspective (12 month expiration),164,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-001,"[EWLS-TAB-STOCK] TPP - Hardware - T100, T10x, or T7 Tablet (12m expiration)",165,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,"[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",56,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode,155,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[R780-OPT-001-26] Trimble R780 Option - BeiDou,156,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[R780-OPT-001-27] Trimble R780 Option - Galileo,166,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode,157,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[R780-OPT-001-51] Trimble R780 Option - NMEA outputs,158,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[12179] Tribrach - 3 Pin with Optical Plummet,159,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,"[12180] Adapter - Tribrach to 5/8, with Removable Center",83,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,"[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",94,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever,91,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey),154,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10),50,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,"[117057-GEO-BKT] Pole Bracket, Trimble TDC600 Worldwide",160,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,"Trimble TSC7 controller - QWERTY keypad, USB/Serial boot, APAC region, Standalone",161,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[121349-01-1] Trimble TSC7 Accessory - Pole Mount,101,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag,100,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License,98,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,"[EWLS-X7] TPP - Hardware - X7 Scanner (self-calibrates, no calibration included)",163,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,[EWLS-PERS-STOCK] TPP - Software - Perspective (12 month expiration),164,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-002,"[EWLS-TAB-STOCK] TPP - Hardware - T100, T10x, or T7 Tablet (12m expiration)",165,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,"[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",56,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode,155,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[R780-OPT-001-26] Trimble R780 Option - BeiDou,156,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[R780-OPT-001-27] Trimble R780 Option - Galileo,166,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode,157,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[R780-OPT-001-51] Trimble R780 Option - NMEA outputs,158,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[12179] Tribrach - 3 Pin with Optical Plummet,159,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,"[12180] Adapter - Tribrach to 5/8, with Removable Center",83,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,"[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",94,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever,91,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey),154,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10),50,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,"[117057-GEO-BKT] Pole Bracket, Trimble TDC600 Worldwide",160,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag,100,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-003,[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License,98,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,"[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",56,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode,155,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[R780-OPT-001-26] Trimble R780 Option - BeiDou,156,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[R780-OPT-001-27] Trimble R780 Option - Galileo,166,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode,157,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[R780-OPT-001-51] Trimble R780 Option - NMEA outputs,158,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[12179] Tribrach - 3 Pin with Optical Plummet,159,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,"[12180] Adapter - Tribrach to 5/8, with Removable Center",83,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,"[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",94,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever,91,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey),154,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag,100,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-004,[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License,98,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,"[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",56,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode,155,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[R780-OPT-001-26] Trimble R780 Option - BeiDou,156,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[R780-OPT-001-27] Trimble R780 Option - Galileo,166,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode,157,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[R780-OPT-001-51] Trimble R780 Option - NMEA outputs,158,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[12179] Tribrach - 3 Pin with Optical Plummet,159,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,"[12180] Adapter - Tribrach to 5/8, with Removable Center",83,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,"[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",94,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever,91,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey),154,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag,100,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-005,[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License,98,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-006,"[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",56,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-006,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-006,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-007,"[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",56,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-007,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-007,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-008,"[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",56,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-008,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-008,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-009,"[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",56,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-009,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-009,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-010,"[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",56,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-010,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-010,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-011,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-011,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-012,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-012,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-013,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-013,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-014,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-014,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-015,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-015,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-016,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-017,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-018,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-019,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-006-020,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00027 (APSIGeoS_2023-006),27,P00027,1.0
+APSIGeoS_2023-007-001,"[63616-00] Add Aerial Photogrammetry to Hardware Key (Reqs Key ID, min. Surface Modeling)",167,P00028 (APSIGeoS_2023-007),28,P00028,1.0
+APSIGeoS_2023-008-001,[X9-100-00-T100] Trimble X9 Kit with T100 Tablet (Worldwide),168,P00029 (APSIGeoS_2023-008),29,P00029,1.0
+APSIGeoS_2023-008-001,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00029 (APSIGeoS_2023-008),29,P00029,1.0
+APSIGeoS_2023-008-001,[63610-00] Trimble Business Center Advanced - Dongle License,77,P00029 (APSIGeoS_2023-008),29,P00029,1.0
+APSIGeoS_2023-008-001,"[63603-00] Add Scanning to Hardware Key (Reqs key ID, min. Survey Advanced Edition)",169,P00029 (APSIGeoS_2023-008),29,P00029,1.0
+APSIGeoS_2023-009-001,[EWLS-SX12-STOCK] TPP - Hardware - SX12 Scanning Total Station w/Calibration (12m expiration),170,P00030 (APSIGeoS_2023-009),30,P00030,1.0
+APSIGeoS_2023-009-001,"[EWLS-TAB-STOCK] TPP - Hardware - T100, T10x, or T7 Tablet (12m expiration)",165,P00030 (APSIGeoS_2023-009),30,P00030,1.0
+APSIGeoS_2023-010-001,[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module,171,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,"[89854-00] Trimble R10 Accessory - UHF Radio Antenna with SMA Connector (410-470 MHz, 0 dB)",172,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,"[44085-60-SUR] UHF Radio, TNC, 410-470 MHz, 5"", Whip (Survey) - Qty 5",173,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[82752-00] Trimble TSC3 Accessory - International Power Supply Kit,174,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,"[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",9,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m),5,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[82750-00] Trimble TSC3 Accessory - Rechargeable Battery incl. Battery Door,175,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[78607007] Accessory - Tribrach without optical plumb,176,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[82755-00] Trimble TSC3 Accessory - Hand Strap,177,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[74451-94] TDL 450H - Radio System Kit; 430-450 MHz,178,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[43169-10] Rod - 2.0m Carbon Fiber Range Pole without Bipod,179,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[82758-10] Trimble TSC3 Accessory - Light Weight Range Pole Bracket,180,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[82764-00] Trimble TSC3 Accessory - Standard Carry Case,181,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10),50,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,[118831] Trimble TDC600 Accessory - Screen Protector (3 pack),182,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-001,"[118835-00] TDC600 Dual Battery Charger,BA7800 3.8V 8000mAh,Gang Charger with AC Adapter-batteries not included",183,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module,171,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,"[89854-00] Trimble R10 Accessory - UHF Radio Antenna with SMA Connector (410-470 MHz, 0 dB)",172,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,"[44085-60-SUR] UHF Radio, TNC, 410-470 MHz, 5"", Whip (Survey) - Qty 5",173,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,[82752-00] Trimble TSC3 Accessory - International Power Supply Kit,174,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,"[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",9,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m),5,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,[82750-00] Trimble TSC3 Accessory - Rechargeable Battery incl. Battery Door,175,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,[82755-00] Trimble TSC3 Accessory - Hand Strap,177,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,[43169-10] Rod - 2.0m Carbon Fiber Range Pole without Bipod,179,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,[82758-10] Trimble TSC3 Accessory - Light Weight Range Pole Bracket,180,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-002,[82764-00] Trimble TSC3 Accessory - Standard Carry Case,181,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module,171,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,"[89854-00] Trimble R10 Accessory - UHF Radio Antenna with SMA Connector (410-470 MHz, 0 dB)",172,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,[82752-00] Trimble TSC3 Accessory - International Power Supply Kit,174,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,"[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",9,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m),5,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,[82750-00] Trimble TSC3 Accessory - Rechargeable Battery incl. Battery Door,175,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,[82755-00] Trimble TSC3 Accessory - Hand Strap,177,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,[43169-10] Rod - 2.0m Carbon Fiber Range Pole without Bipod,179,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,[82758-10] Trimble TSC3 Accessory - Light Weight Range Pole Bracket,180,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-003,[82764-00] Trimble TSC3 Accessory - Standard Carry Case,181,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module,171,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,"[89854-00] Trimble R10 Accessory - UHF Radio Antenna with SMA Connector (410-470 MHz, 0 dB)",172,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,[82752-00] Trimble TSC3 Accessory - International Power Supply Kit,174,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,"[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",9,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,[82750-00] Trimble TSC3 Accessory - Rechargeable Battery incl. Battery Door,175,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,[82755-00] Trimble TSC3 Accessory - Hand Strap,177,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,[43169-10] Rod - 2.0m Carbon Fiber Range Pole without Bipod,179,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,[82758-10] Trimble TSC3 Accessory - Light Weight Range Pole Bracket,180,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-004,[82764-00] Trimble TSC3 Accessory - Standard Carry Case,181,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-005,[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module,171,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-005,[82752-00] Trimble TSC3 Accessory - International Power Supply Kit,174,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-005,[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America),93,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-005,[82755-00] Trimble TSC3 Accessory - Hand Strap,177,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-005,[82764-00] Trimble TSC3 Accessory - Standard Carry Case,181,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-006,[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module,171,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-006,[82752-00] Trimble TSC3 Accessory - International Power Supply Kit,174,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-006,[82755-00] Trimble TSC3 Accessory - Hand Strap,177,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-006,[82764-00] Trimble TSC3 Accessory - Standard Carry Case,181,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-007,[82755-00] Trimble TSC3 Accessory - Hand Strap,177,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-007,[82764-00] Trimble TSC3 Accessory - Standard Carry Case,181,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-008,[82755-00] Trimble TSC3 Accessory - Hand Strap,177,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-008,[82764-00] Trimble TSC3 Accessory - Standard Carry Case,181,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-009,[82755-00] Trimble TSC3 Accessory - Hand Strap,177,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-010-009,[82764-00] Trimble TSC3 Accessory - Standard Carry Case,181,P00031 (APSIGeoS_2023-010),31,P00031,1.0
+APSIGeoS_2023-011-001,[TA-GENGNSS-YR-00] Trimble Access - GNSS Only General Survey; per year subscription,184,P00032 (APSIGeoS_2023-011),32,P00032,1.0
+APSIGeoS_2023-011-001,TPP - Software Maintenance - Trimble Access Reinstatement (12 month expiration),186,P00032 (APSIGeoS_2023-011),32,P00032,1.0
+APSIGeoS_2023-011-001,[TBC-ADV-RNST-STOCK] TPP - Software Maintenance - Survey Trimble Business Center Advanced RNST (12 month expiration),185,P00032 (APSIGeoS_2023-011),32,P00032,1.0
+APSIGeos_2021_001-001,[121952-01-GEO] TSC5 Pole Mount Bracket,2,P00005 (APSIGeos_2021_001),5,P00005,1.0
+APSIGeos_2021_001-001,[115929-03] TDC150 cm,3,P00005 (APSIGeos_2021_001),5,P00005,1.0
+APSIGeos_2021_001-001,[TRW-452-01-D] TRW SOFTWARE - ADVANCED-PLANT (DEALER DEMO - DONGLE LIC),4,P00005 (APSIGeos_2021_001),5,P00005,1.0
+APSIGeos_2021_001-001,[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m),5,P00005 (APSIGeos_2021_001),5,P00005,1.0
+APSIGeos_2021_001-002,[121952-01-GEO] TSC5 Pole Mount Bracket,2,P00005 (APSIGeos_2021_001),5,P00005,1.0
+APSIGeos_2021_001-002,[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m),5,P00005 (APSIGeos_2021_001),5,P00005,1.0
+APSIGeos_2021_001-003,[121952-01-GEO] TSC5 Pole Mount Bracket,2,P00005 (APSIGeos_2021_001),5,P00005,1.0
+APSIGeos_2021_001-003,[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m),5,P00005 (APSIGeos_2021_001),5,P00005,1.0
+APSIGeos_2021_001-004,[121952-01-GEO] TSC5 Pole Mount Bracket,2,P00005 (APSIGeos_2021_001),5,P00005,1.0
+APSIGeos_2021_002-001,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_002-002,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_002-003,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_002-004,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_002-005,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_002-006,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_002-007,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_002-008,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_002-009,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_002-010,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_002-011,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_002-012,"[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",7,P00006 (APSIGeos_2021_002),6,P00006,1.0
+APSIGeos_2021_006-001,[63610-00] Trimble Business Center Survey Advanced - Dongle License,6,P00007 (APSIGeos_2021_006),7,P00007,1.0
+APSIGeos_2021_006-001,[SX-BP-01] Trimble SX Backpack,10,P00007 (APSIGeos_2021_006),7,P00007,1.0
+APSIGeos_2021_006-002,[SX-BP-01] Trimble SX Backpack,10,P00007 (APSIGeos_2021_006),7,P00007,1.0
+APSIGeos_2021_006-003,[SX-BP-01] Trimble SX Backpack,10,P00007 (APSIGeos_2021_006),7,P00007,1.0
+APSIGeos_2021_006-004,[SX-BP-01] Trimble SX Backpack,10,P00007 (APSIGeos_2021_006),7,P00007,1.0
+APSIGeos_2021_006-005,[SX-BP-01] Trimble SX Backpack,10,P00007 (APSIGeos_2021_006),7,P00007,1.0
+APSIGeos_2021_007-001,[SX-BP-01] Trimble SX Backpack,10,P00008 (APSIGeos_2021_007),8,P00008,1.0
+APSIGeos_2022_002-001,"[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",9,P00009 (APSIGeos_2022_002),9,P00009,1.0
+APSIGeos_2022_002-001,"[99511-30] BPack,Li-Ion,INDUS,3S2P,10.8V,6500mAHr,124x74x24.8mm",11,P00009 (APSIGeos_2022_002),9,P00009,1.0
+APSIGeos_2022_002-002,"[99511-30] BPack,Li-Ion,INDUS,3S2P,10.8V,6500mAHr,124x74x24.8mm",11,P00009 (APSIGeos_2022_002),9,P00009,1.0
+APSIGeos_2022_002-002,"[C550100] Trimble C5 5"" Total Station, w/Trimble Access, Optical Plummet",15,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_004-001,[TCU5-00-TA] TCU5 with Trimble Access,8,P00010 (APSIGeos_2022_004),10,P00010,1.0
+APSIGeos_2022_005-001,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00011 (APSIGeos_2022_005),11,P00011,1.0
+APSIGeos_2022_005-002,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00011 (APSIGeos_2022_005),11,P00011,1.0
+APSIGeos_2022_005-003,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00011 (APSIGeos_2022_005),11,P00011,1.0
+APSIGeos_2022_006-001,"[C520100] Trimble C5 2"" Total Station, w/Trimble Access, Optical Plummet",13,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-001,"[C530100] Trimble C5 3"" Total Station, w/Trimble Access, Optical Plummet",14,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-001,"[C550100] Trimble C5 5"" Total Station, w/Trimble Access, Optical Plummet",15,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-001,[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod,16,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-001,"[114111] BPack,Li-Ion,INDUS,3S2P,11.4V,8000mAHr,123x147x18.4mm",72,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-001,"[HXE21214] Data Cable - Serial to Nikon, X-Series, Trimble C-Series",18,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-001,[58024021] Traverse Prism with AR Coating without Sighting Target,19,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-002,[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod,16,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-002,"[114111] BPack,Li-Ion,INDUS,3S2P,11.4V,8000mAHr,123x147x18.4mm",72,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-002,"[HXE21214] Data Cable - Serial to Nikon, X-Series, Trimble C-Series",18,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-002,[58024021] Traverse Prism with AR Coating without Sighting Target,19,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-003,[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod,16,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-003,"[114111] BPack,Li-Ion,INDUS,3S2P,11.4V,8000mAHr,123x147x18.4mm",72,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-003,"[HXE21214] Data Cable - Serial to Nikon, X-Series, Trimble C-Series",18,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-003,[58024021] Traverse Prism with AR Coating without Sighting Target,19,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-004,[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod,16,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-004,"[114111] BPack,Li-Ion,INDUS,3S2P,11.4V,8000mAHr,123x147x18.4mm",72,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-004,"[HXE21214] Data Cable - Serial to Nikon, X-Series, Trimble C-Series",18,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_006-004,[58024021] Traverse Prism with AR Coating without Sighting Target,19,P00013 (APSIGeos_2022_006),13,P00013,1.0
+APSIGeos_2022_007-001,"[7073139510000] Staff - Invar rod LD 13/b, 3m, code-graduation, with wide staff base",20,P00014 (APSIGeos_2022_007),14,P00014,1.0
+APSIGeos_2022_007-001,[7078030000000] Footplate with steel punch,21,P00014 (APSIGeos_2022_007),14,P00014,1.0
+APSIGeos_2022_007-001,[59369-00] Holder - 3 pack battery holder,22,P00014 (APSIGeos_2022_007),14,P00014,1.0
+APSIGeos_2022_007-001,[121990-BLK-GEO] T100 Hand Strap,23,P00014 (APSIGeos_2022_007),14,P00014,1.0
+APSIGeos_2022_007-002,[7078030000000] Footplate with steel punch,21,P00014 (APSIGeos_2022_007),14,P00014,1.0
+APSIGeos_2022_007-002,[121990-BLK-GEO] T100 Hand Strap,23,P00014 (APSIGeos_2022_007),14,P00014,1.0
+APSIGeos_2022_007-003,[121990-BLK-GEO] T100 Hand Strap,23,P00014 (APSIGeos_2022_007),14,P00014,1.0
+APSIGeos_2022_007-004,[121990-BLK-GEO] T100 Hand Strap,23,P00014 (APSIGeos_2022_007),14,P00014,1.0
+APSIGeos_2022_011-001,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00015 (APSIGeos_2022_011),15,P00015,1.0
+APSIGeos_2022_011-001,[63609-00] Trimble Business Center Survey Intermediate - Dongle License,24,P00015 (APSIGeos_2022_011),15,P00015,1.0
+APSIGeos_2022_011-002,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00015 (APSIGeos_2022_011),15,P00015,1.0
+APSIGeos_2022_011-003,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00015 (APSIGeos_2022_011),15,P00015,1.0
+APSIGeos_2022_011-004,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00015 (APSIGeos_2022_011),15,P00015,1.0
+APSIGeos_2022_011-005,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00015 (APSIGeos_2022_011),15,P00015,1.0
+APSIGeos_2022_011-006,[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod,12,P00015 (APSIGeos_2022_011),15,P00015,1.0
+APSIGeos_2022_013-001,"[58957-05] Cable - GPS, 5m, TNC/TNC Rt. Angle",25,P00016 (APSIGeos_2022_013),16,P00016,1.0
+APSIGeos_2022_013-001,"[52618] Accessories - TAPE MEASURE, METRIC/TENTHS",147,P00016 (APSIGeos_2022_013),16,P00016,1.0
+APSIGeos_2022_013-001,[121349-03] Trimble TSC7 Accessory - Pole Mount,27,P00016 (APSIGeos_2022_013),16,P00016,1.0
+APSIGeos_2022_013-001,[122906-BLK-GEO] T100 Pole Bracket Long Length,28,P00016 (APSIGeos_2022_013),16,P00016,1.0
+APSIGeos_2022_013-002,"[52618] Accessories - TAPE MEASURE, METRIC/TENTHS",147,P00016 (APSIGeos_2022_013),16,P00016,1.0
+APSIGeos_2022_013-002,[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod,16,P00016 (APSIGeos_2022_013),16,P00016,1.0
+APSIGeos_2022_013-002,[122906-BLK-GEO] T100 Pole Bracket Long Length,28,P00016 (APSIGeos_2022_013),16,P00016,1.0
+APSIGeos_2022_013_001,[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod,16,P00016 (APSIGeos_2022_013),16,P00016,1.0
+APSIGeos_2022_015-001,"[110471-95] Connectivity bundle, Trimble SX Total Station to T4D (incl. Settop M1, Octohub v2, Cable kit)",31,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-001,"[MPS865-30-MON] Kit - Monitoring, GNSS, MPS865, 4G, No Radio, with 2x Z3R Antenna (Pre-Configured) (one Z3R Delivered to Region 5)",32,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-001,[SETTOPM1CAB_BIG-MON] Settop M1 Cabinet (LARGE),33,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-001,"[LS-G6-KIO-GW-923-MON] Gateway 923 MHz, 4G module and internal 2.6 dBi antenna. Includes antenna (Asia Pacific and LATAM)",34,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-001,"[LS-ACC-SUPGW-03-MON] Vertical Omni-Directional Outdoor Antenna Kit, 3 dBi, 915/923 MHz, 30 cm length",35,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-001,"[LS-G6-TIL90-I-MON] Loadsensing LS-G6, Triaxial Tiltmeter Sensor, Wireless communication with Internal antenna",36,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-001,[LS-G6-LAS-TIL90-MON] Loadsensing LS-G6 laser-distance and tilt node,37,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-001,[LS-ACC-IN15-VP-MON] Wireless tiltmeter vertical mounting plate (aluminium).,38,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-001,[LS-ACC-IN15-HP-MON] Horizontal surface mounting plate. Options for attaching: Fasteners or glue.,39,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-001,"[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",40,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-002,"[LS-G6-TIL90-I-MON] Loadsensing LS-G6, Triaxial Tiltmeter Sensor, Wireless communication with Internal antenna",36,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-002,[LS-ACC-IN15-VP-MON] Wireless tiltmeter vertical mounting plate (aluminium).,38,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-002,[LS-ACC-IN15-HP-MON] Horizontal surface mounting plate. Options for attaching: Fasteners or glue.,39,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-002,"[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",40,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-003,"[LS-G6-TIL90-I-MON] Loadsensing LS-G6, Triaxial Tiltmeter Sensor, Wireless communication with Internal antenna",36,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-003,[LS-ACC-IN15-HP-MON] Horizontal surface mounting plate. Options for attaching: Fasteners or glue.,39,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-003,"[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",40,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-004,"[LS-G6-TIL90-I-MON] Loadsensing LS-G6, Triaxial Tiltmeter Sensor, Wireless communication with Internal antenna",36,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-004,"[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",40,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_015-005,"[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",40,P00017 (APSIGeos_2022_015),17,P00017,1.0
+APSIGeos_2022_016-001,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-002,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-003,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-004,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-005,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-006,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-007,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-008,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-009,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-010,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-011,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-012,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-013,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-014,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-015,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-016,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-017,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-018,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-019,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_016-020,"[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",148,P00019 (APSIGeos-2022_016),19,P00019,1.0
+APSIGeos_2022_017-001,[SX-BP-01] Trimble SX Backpack,10,P00020 (APSIGeos_2022-017),20,P00020,1.0
+APSIGeos_2022_017-002,[SX-BP-01] Trimble SX Backpack,10,P00020 (APSIGeos_2022-017),20,P00020,1.0
+APSIGeos_2023_001-001,"[52618] Accessories - TAPE MEASURE, METRIC/TENTHS",147,P00021 (APSIGeos_2023_001),21,P00021,1.0
+APSIGeos_2023_001-001,[74450-11] TDL 450H Office Power Kit,151,P00021 (APSIGeos_2023_001),21,P00021,1.0
