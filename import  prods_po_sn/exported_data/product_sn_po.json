@@ -1,0 +1,3179 @@
+[
+    {
+        "serial_number": "APSIGeoS_2023-002-001",
+        "product_name": "[R750-OPT-001-32] Trimble R750 Option - Trimble Data Collector support",
+        "product_id": 43,
+        "purchase_order_name": "P00023 (APSIGeoS_2023-002)",
+        "purchase_order_id": 23,
+        "picking_type": "P00023",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-003-001",
+        "product_name": "[TBC-EDU-ALL-00] TBC TUPP Education Program - 10-seat Software Key License",
+        "product_id": 44,
+        "purchase_order_name": "P00025 (APSIGeoS_2023-003)",
+        "purchase_order_id": 25,
+        "picking_type": "P00025",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-003-001",
+        "product_name": "[109695-00] Trimble Catalyst DA2 Receiver Packout",
+        "product_id": 45,
+        "purchase_order_name": "P00025 (APSIGeoS_2023-003)",
+        "purchase_order_id": 25,
+        "picking_type": "P00025",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-003-001",
+        "product_name": "[TA-GNSSCAT-YR-00] Trimble Access GNSS only with Catalyst Survey",
+        "product_id": 46,
+        "purchase_order_name": "P00025 (APSIGeoS_2023-003)",
+        "purchase_order_id": 25,
+        "picking_type": "P00025",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-003-001",
+        "product_name": "[128518-00-BLK-GEO] ANKER PowerCore 5000 Power Bank (5000mAH) (x5)",
+        "product_id": 152,
+        "purchase_order_name": "P00025 (APSIGeoS_2023-003)",
+        "purchase_order_id": 25,
+        "picking_type": "P00025",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-003-001",
+        "product_name": "[109218-BLK-GEO] Pouch, Trimble Catalyst (5 pack)",
+        "product_id": 48,
+        "purchase_order_name": "P00025 (APSIGeoS_2023-003)",
+        "purchase_order_id": 25,
+        "picking_type": "P00025",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-003-001",
+        "product_name": "[TBC-SAM-YR-00-G] Trimble Business Center Survey and Mapping - Annually, Per Seat",
+        "product_id": 49,
+        "purchase_order_name": "P00025 (APSIGeoS_2023-003)",
+        "purchase_order_id": 25,
+        "picking_type": "P00025",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-003-001",
+        "product_name": "[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10)",
+        "product_id": 50,
+        "purchase_order_name": "P00025 (APSIGeoS_2023-003)",
+        "purchase_order_id": 25,
+        "picking_type": "P00025",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-003-002",
+        "product_name": "[TBC-EDU-ALL-00] TBC TUPP Education Program - 10-seat Software Key License",
+        "product_id": 44,
+        "purchase_order_name": "P00025 (APSIGeoS_2023-003)",
+        "purchase_order_id": 25,
+        "picking_type": "P00025",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-003-002",
+        "product_name": "[128518-00-BLK-GEO] ANKER PowerCore 5000 Power Bank (5000mAH) (x5)",
+        "product_id": 152,
+        "purchase_order_name": "P00025 (APSIGeoS_2023-003)",
+        "purchase_order_id": 25,
+        "picking_type": "P00025",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-005-001",
+        "product_name": "[58026020] Traverse Prism with AR Coating",
+        "product_id": 51,
+        "purchase_order_name": "P00026 (APSIGeoS_2023-005)",
+        "purchase_order_id": 26,
+        "picking_type": "P00026",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-005-001",
+        "product_name": "[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey)",
+        "product_id": 154,
+        "purchase_order_name": "P00026 (APSIGeoS_2023-005)",
+        "purchase_order_id": 26,
+        "picking_type": "P00026",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-005-001",
+        "product_name": "[73840019] INSTR./ADV. HOLDER TO PC CON. CABLE",
+        "product_id": 53,
+        "purchase_order_name": "P00026 (APSIGeoS_2023-005)",
+        "purchase_order_id": 26,
+        "picking_type": "P00026",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-005-001",
+        "product_name": "[121320-01-1] Trimble Accessory - Rechargeable Battery 2-pack",
+        "product_id": 54,
+        "purchase_order_name": "P00026 (APSIGeoS_2023-005)",
+        "purchase_order_id": 26,
+        "picking_type": "P00026",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-005-001",
+        "product_name": "[109000] Dual Slot Charger without Cables or Power Supply",
+        "product_id": 55,
+        "purchase_order_name": "P00026 (APSIGeoS_2023-005)",
+        "purchase_order_id": 26,
+        "picking_type": "P00026",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-005-002",
+        "product_name": "[58026020] Traverse Prism with AR Coating",
+        "product_id": 51,
+        "purchase_order_name": "P00026 (APSIGeoS_2023-005)",
+        "purchase_order_id": 26,
+        "picking_type": "P00026",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-005-002",
+        "product_name": "[73840019] INSTR./ADV. HOLDER TO PC CON. CABLE",
+        "product_id": 53,
+        "purchase_order_name": "P00026 (APSIGeoS_2023-005)",
+        "purchase_order_id": 26,
+        "picking_type": "P00026",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-005-002",
+        "product_name": "[121320-01-1] Trimble Accessory - Rechargeable Battery 2-pack",
+        "product_id": 54,
+        "purchase_order_name": "P00026 (APSIGeoS_2023-005)",
+        "purchase_order_id": 26,
+        "picking_type": "P00026",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-005-002",
+        "product_name": "[109000] Dual Slot Charger without Cables or Power Supply",
+        "product_id": 55,
+        "purchase_order_name": "P00026 (APSIGeoS_2023-005)",
+        "purchase_order_id": 26,
+        "picking_type": "P00026",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+        "product_id": 56,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode",
+        "product_id": 155,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[R780-OPT-001-26] Trimble R780 Option - BeiDou",
+        "product_id": 156,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[R780-OPT-001-27] Trimble R780 Option - Galileo",
+        "product_id": 166,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode",
+        "product_id": 157,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[R780-OPT-001-51] Trimble R780 Option - NMEA outputs",
+        "product_id": 158,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[12179] Tribrach - 3 Pin with Optical Plummet",
+        "product_id": 159,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[12180] Adapter - Tribrach to 5/8, with Removable Center",
+        "product_id": 83,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",
+        "product_id": 94,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever",
+        "product_id": 91,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey)",
+        "product_id": 154,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10)",
+        "product_id": 50,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[117057-GEO-BKT] Pole Bracket, Trimble TDC600 Worldwide",
+        "product_id": 160,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "Trimble TSC7 controller - QWERTY keypad, USB/Serial boot, APAC region, Standalone",
+        "product_id": 161,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[121349-01-1] Trimble TSC7 Accessory - Pole Mount",
+        "product_id": 101,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag",
+        "product_id": 100,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License",
+        "product_id": 98,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[63615-00] Add Aerial Photogrammetry to Software Key Lic (Reqs Key ID, min. Surface Modeling, match # of seats)",
+        "product_id": 162,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[EWLS-X7] TPP - Hardware - X7 Scanner (self-calibrates, no calibration included)",
+        "product_id": 163,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[EWLS-PERS-STOCK] TPP - Software - Perspective (12 month expiration)",
+        "product_id": 164,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-001",
+        "product_name": "[EWLS-TAB-STOCK] TPP - Hardware - T100, T10x, or T7 Tablet (12m expiration)",
+        "product_id": 165,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+        "product_id": 56,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode",
+        "product_id": 155,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[R780-OPT-001-26] Trimble R780 Option - BeiDou",
+        "product_id": 156,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[R780-OPT-001-27] Trimble R780 Option - Galileo",
+        "product_id": 166,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode",
+        "product_id": 157,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[R780-OPT-001-51] Trimble R780 Option - NMEA outputs",
+        "product_id": 158,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[12179] Tribrach - 3 Pin with Optical Plummet",
+        "product_id": 159,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[12180] Adapter - Tribrach to 5/8, with Removable Center",
+        "product_id": 83,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",
+        "product_id": 94,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever",
+        "product_id": 91,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey)",
+        "product_id": 154,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10)",
+        "product_id": 50,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[117057-GEO-BKT] Pole Bracket, Trimble TDC600 Worldwide",
+        "product_id": 160,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "Trimble TSC7 controller - QWERTY keypad, USB/Serial boot, APAC region, Standalone",
+        "product_id": 161,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[121349-01-1] Trimble TSC7 Accessory - Pole Mount",
+        "product_id": 101,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag",
+        "product_id": 100,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License",
+        "product_id": 98,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[EWLS-X7] TPP - Hardware - X7 Scanner (self-calibrates, no calibration included)",
+        "product_id": 163,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[EWLS-PERS-STOCK] TPP - Software - Perspective (12 month expiration)",
+        "product_id": 164,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-002",
+        "product_name": "[EWLS-TAB-STOCK] TPP - Hardware - T100, T10x, or T7 Tablet (12m expiration)",
+        "product_id": 165,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+        "product_id": 56,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode",
+        "product_id": 155,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[R780-OPT-001-26] Trimble R780 Option - BeiDou",
+        "product_id": 156,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[R780-OPT-001-27] Trimble R780 Option - Galileo",
+        "product_id": 166,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode",
+        "product_id": 157,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[R780-OPT-001-51] Trimble R780 Option - NMEA outputs",
+        "product_id": 158,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[12179] Tribrach - 3 Pin with Optical Plummet",
+        "product_id": 159,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[12180] Adapter - Tribrach to 5/8, with Removable Center",
+        "product_id": 83,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",
+        "product_id": 94,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever",
+        "product_id": 91,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey)",
+        "product_id": 154,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10)",
+        "product_id": 50,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[117057-GEO-BKT] Pole Bracket, Trimble TDC600 Worldwide",
+        "product_id": 160,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag",
+        "product_id": 100,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-003",
+        "product_name": "[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License",
+        "product_id": 98,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+        "product_id": 56,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode",
+        "product_id": 155,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[R780-OPT-001-26] Trimble R780 Option - BeiDou",
+        "product_id": 156,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[R780-OPT-001-27] Trimble R780 Option - Galileo",
+        "product_id": 166,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode",
+        "product_id": 157,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[R780-OPT-001-51] Trimble R780 Option - NMEA outputs",
+        "product_id": 158,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[12179] Tribrach - 3 Pin with Optical Plummet",
+        "product_id": 159,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[12180] Adapter - Tribrach to 5/8, with Removable Center",
+        "product_id": 83,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",
+        "product_id": 94,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever",
+        "product_id": 91,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey)",
+        "product_id": 154,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag",
+        "product_id": 100,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-004",
+        "product_name": "[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License",
+        "product_id": 98,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+        "product_id": 56,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[R780-CFG-001-41] Trimble R780 Configuration Level - Base mode",
+        "product_id": 155,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[R780-OPT-001-26] Trimble R780 Option - BeiDou",
+        "product_id": 156,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[R780-OPT-001-27] Trimble R780 Option - Galileo",
+        "product_id": 166,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[R780-CFG-001-42] Trimble R780 Configuration Level - Rover / Network Rover mode",
+        "product_id": 157,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[R780-OPT-001-51] Trimble R780 Option - NMEA outputs",
+        "product_id": 158,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[12179] Tribrach - 3 Pin with Optical Plummet",
+        "product_id": 159,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[12180] Adapter - Tribrach to 5/8, with Removable Center",
+        "product_id": 83,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[89864-00] Trimble R10 Accessory - Ext. Battery Cable Set (7P Lemo to SAE, 0.6m / SAE to Battery Clips, 1.8m)",
+        "product_id": 94,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[89846-00] Trimble R10 Accessory - Base Station Extension (0.15m) with Height Measurement Lever",
+        "product_id": 91,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[90553-TR-SUR] Tripod - Dual Clamp Tri-Max with Trimble Logos (for Survey)",
+        "product_id": 154,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[121354-01-1] Trimble Accessory - Carry Case Shoulder Bag",
+        "product_id": 100,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-005",
+        "product_name": "[TA-GENSURV-GNSS-P] Trimble Access GNSS - General Survey; Perpetual License",
+        "product_id": 98,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-006",
+        "product_name": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+        "product_id": 56,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-006",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-006",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-007",
+        "product_name": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+        "product_id": 56,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-007",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-007",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-008",
+        "product_name": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+        "product_id": 56,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-008",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-008",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-009",
+        "product_name": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+        "product_id": 56,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-009",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-009",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-010",
+        "product_name": "[R780-101-60] GNSS Receiver - R780, 403-473 MHz Radio, Geospatial, with accessories",
+        "product_id": 56,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-010",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-010",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-011",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-011",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-012",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-012",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-013",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-013",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-014",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-014",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-015",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-015",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-016",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-017",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-018",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-019",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-006-020",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00027 (APSIGeoS_2023-006)",
+        "purchase_order_id": 27,
+        "picking_type": "P00027",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-007-001",
+        "product_name": "[63616-00] Add Aerial Photogrammetry to Hardware Key (Reqs Key ID, min. Surface Modeling)",
+        "product_id": 167,
+        "purchase_order_name": "P00028 (APSIGeoS_2023-007)",
+        "purchase_order_id": 28,
+        "picking_type": "P00028",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-008-001",
+        "product_name": "[X9-100-00-T100] Trimble X9 Kit with T100 Tablet (Worldwide)",
+        "product_id": 168,
+        "purchase_order_name": "P00029 (APSIGeoS_2023-008)",
+        "purchase_order_id": 29,
+        "picking_type": "P00029",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-008-001",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00029 (APSIGeoS_2023-008)",
+        "purchase_order_id": 29,
+        "picking_type": "P00029",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-008-001",
+        "product_name": "[63610-00] Trimble Business Center Advanced - Dongle License",
+        "product_id": 77,
+        "purchase_order_name": "P00029 (APSIGeoS_2023-008)",
+        "purchase_order_id": 29,
+        "picking_type": "P00029",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-008-001",
+        "product_name": "[63603-00] Add Scanning to Hardware Key (Reqs key ID, min. Survey Advanced Edition)",
+        "product_id": 169,
+        "purchase_order_name": "P00029 (APSIGeoS_2023-008)",
+        "purchase_order_id": 29,
+        "picking_type": "P00029",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-009-001",
+        "product_name": "[EWLS-SX12-STOCK] TPP - Hardware - SX12 Scanning Total Station w/Calibration (12m expiration)",
+        "product_id": 170,
+        "purchase_order_name": "P00030 (APSIGeoS_2023-009)",
+        "purchase_order_id": 30,
+        "picking_type": "P00030",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-009-001",
+        "product_name": "[EWLS-TAB-STOCK] TPP - Hardware - T100, T10x, or T7 Tablet (12m expiration)",
+        "product_id": 165,
+        "purchase_order_name": "P00030 (APSIGeoS_2023-009)",
+        "purchase_order_id": 30,
+        "picking_type": "P00030",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module",
+        "product_id": 171,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[89854-00] Trimble R10 Accessory - UHF Radio Antenna with SMA Connector (410-470 MHz, 0 dB)",
+        "product_id": 172,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[44085-60-SUR] UHF Radio, TNC, 410-470 MHz, 5\", Whip (Survey) - Qty 5",
+        "product_id": 173,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[82752-00] Trimble TSC3 Accessory - International Power Supply Kit",
+        "product_id": 174,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",
+        "product_id": 9,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m)",
+        "product_id": 5,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[82750-00] Trimble TSC3 Accessory - Rechargeable Battery incl. Battery Door",
+        "product_id": 175,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[78607007] Accessory - Tribrach without optical plumb",
+        "product_id": 176,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[82755-00] Trimble TSC3 Accessory - Hand Strap",
+        "product_id": 177,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[74451-94] TDL 450H - Radio System Kit; 430-450 MHz",
+        "product_id": 178,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[43169-10] Rod - 2.0m Carbon Fiber Range Pole without Bipod",
+        "product_id": 179,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[82758-10] Trimble TSC3 Accessory - Light Weight Range Pole Bracket",
+        "product_id": 180,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[82764-00] Trimble TSC3 Accessory - Standard Carry Case",
+        "product_id": 181,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[117057-20-GEO] Trimble TDC600_2 Worldwide (Android10)",
+        "product_id": 50,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[118831] Trimble TDC600 Accessory - Screen Protector (3 pack)",
+        "product_id": 182,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-001",
+        "product_name": "[118835-00] TDC600 Dual Battery Charger,BA7800 3.8V 8000mAh,Gang Charger with AC Adapter-batteries not included",
+        "product_id": 183,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module",
+        "product_id": 171,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[89854-00] Trimble R10 Accessory - UHF Radio Antenna with SMA Connector (410-470 MHz, 0 dB)",
+        "product_id": 172,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[44085-60-SUR] UHF Radio, TNC, 410-470 MHz, 5\", Whip (Survey) - Qty 5",
+        "product_id": 173,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[82752-00] Trimble TSC3 Accessory - International Power Supply Kit",
+        "product_id": 174,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",
+        "product_id": 9,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m)",
+        "product_id": 5,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[82750-00] Trimble TSC3 Accessory - Rechargeable Battery incl. Battery Door",
+        "product_id": 175,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[82755-00] Trimble TSC3 Accessory - Hand Strap",
+        "product_id": 177,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[43169-10] Rod - 2.0m Carbon Fiber Range Pole without Bipod",
+        "product_id": 179,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[82758-10] Trimble TSC3 Accessory - Light Weight Range Pole Bracket",
+        "product_id": 180,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-002",
+        "product_name": "[82764-00] Trimble TSC3 Accessory - Standard Carry Case",
+        "product_id": 181,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module",
+        "product_id": 171,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[89854-00] Trimble R10 Accessory - UHF Radio Antenna with SMA Connector (410-470 MHz, 0 dB)",
+        "product_id": 172,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[82752-00] Trimble TSC3 Accessory - International Power Supply Kit",
+        "product_id": 174,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",
+        "product_id": 9,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m)",
+        "product_id": 5,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[82750-00] Trimble TSC3 Accessory - Rechargeable Battery incl. Battery Door",
+        "product_id": 175,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[82755-00] Trimble TSC3 Accessory - Hand Strap",
+        "product_id": 177,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[43169-10] Rod - 2.0m Carbon Fiber Range Pole without Bipod",
+        "product_id": 179,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[82758-10] Trimble TSC3 Accessory - Light Weight Range Pole Bracket",
+        "product_id": 180,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-003",
+        "product_name": "[82764-00] Trimble TSC3 Accessory - Standard Carry Case",
+        "product_id": 181,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module",
+        "product_id": 171,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[89854-00] Trimble R10 Accessory - UHF Radio Antenna with SMA Connector (410-470 MHz, 0 dB)",
+        "product_id": 172,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[82752-00] Trimble TSC3 Accessory - International Power Supply Kit",
+        "product_id": 174,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",
+        "product_id": 9,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[82750-00] Trimble TSC3 Accessory - Rechargeable Battery incl. Battery Door",
+        "product_id": 175,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[82755-00] Trimble TSC3 Accessory - Hand Strap",
+        "product_id": 177,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[43169-10] Rod - 2.0m Carbon Fiber Range Pole without Bipod",
+        "product_id": 179,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[82758-10] Trimble TSC3 Accessory - Light Weight Range Pole Bracket",
+        "product_id": 180,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-004",
+        "product_name": "[82764-00] Trimble TSC3 Accessory - Standard Carry Case",
+        "product_id": 181,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-005",
+        "product_name": "[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module",
+        "product_id": 171,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-005",
+        "product_name": "[82752-00] Trimble TSC3 Accessory - International Power Supply Kit",
+        "product_id": 174,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-005",
+        "product_name": "[101070-00-01] Trimble Geospatial Accessory - Dual Battery Charger with Power Supply and Power Cord (North America)",
+        "product_id": 93,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-005",
+        "product_name": "[82755-00] Trimble TSC3 Accessory - Hand Strap",
+        "product_id": 177,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-005",
+        "product_name": "[82764-00] Trimble TSC3 Accessory - Standard Carry Case",
+        "product_id": 181,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-006",
+        "product_name": "[82766-00] Trimble TSC3 Accessory - Antenna For Internal 2.4 GHz Radio Module",
+        "product_id": 171,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-006",
+        "product_name": "[82752-00] Trimble TSC3 Accessory - International Power Supply Kit",
+        "product_id": 174,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-006",
+        "product_name": "[82755-00] Trimble TSC3 Accessory - Hand Strap",
+        "product_id": 177,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-006",
+        "product_name": "[82764-00] Trimble TSC3 Accessory - Standard Carry Case",
+        "product_id": 181,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-007",
+        "product_name": "[82755-00] Trimble TSC3 Accessory - Hand Strap",
+        "product_id": 177,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-007",
+        "product_name": "[82764-00] Trimble TSC3 Accessory - Standard Carry Case",
+        "product_id": 181,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-008",
+        "product_name": "[82755-00] Trimble TSC3 Accessory - Hand Strap",
+        "product_id": 177,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-008",
+        "product_name": "[82764-00] Trimble TSC3 Accessory - Standard Carry Case",
+        "product_id": 181,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-009",
+        "product_name": "[82755-00] Trimble TSC3 Accessory - Hand Strap",
+        "product_id": 177,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-010-009",
+        "product_name": "[82764-00] Trimble TSC3 Accessory - Standard Carry Case",
+        "product_id": 181,
+        "purchase_order_name": "P00031 (APSIGeoS_2023-010)",
+        "purchase_order_id": 31,
+        "picking_type": "P00031",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-011-001",
+        "product_name": "[TA-GENGNSS-YR-00] Trimble Access - GNSS Only General Survey; per year subscription",
+        "product_id": 184,
+        "purchase_order_name": "P00032 (APSIGeoS_2023-011)",
+        "purchase_order_id": 32,
+        "picking_type": "P00032",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-011-001",
+        "product_name": "TPP - Software Maintenance - Trimble Access Reinstatement (12 month expiration)",
+        "product_id": 186,
+        "purchase_order_name": "P00032 (APSIGeoS_2023-011)",
+        "purchase_order_id": 32,
+        "picking_type": "P00032",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeoS_2023-011-001",
+        "product_name": "[TBC-ADV-RNST-STOCK] TPP - Software Maintenance - Survey Trimble Business Center Advanced RNST (12 month expiration)",
+        "product_id": 185,
+        "purchase_order_name": "P00032 (APSIGeoS_2023-011)",
+        "purchase_order_id": 32,
+        "picking_type": "P00032",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_001-001",
+        "product_name": "[121952-01-GEO] TSC5 Pole Mount Bracket",
+        "product_id": 2,
+        "purchase_order_name": "P00005 (APSIGeos_2021_001)",
+        "purchase_order_id": 5,
+        "picking_type": "P00005",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_001-001",
+        "product_name": "[115929-03] TDC150 cm",
+        "product_id": 3,
+        "purchase_order_name": "P00005 (APSIGeos_2021_001)",
+        "purchase_order_id": 5,
+        "picking_type": "P00005",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_001-001",
+        "product_name": "[TRW-452-01-D] TRW SOFTWARE - ADVANCED-PLANT (DEALER DEMO - DONGLE LIC)",
+        "product_id": 4,
+        "purchase_order_name": "P00005 (APSIGeos_2021_001)",
+        "purchase_order_id": 5,
+        "picking_type": "P00005",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_001-001",
+        "product_name": "[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m)",
+        "product_id": 5,
+        "purchase_order_name": "P00005 (APSIGeos_2021_001)",
+        "purchase_order_id": 5,
+        "picking_type": "P00005",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_001-002",
+        "product_name": "[121952-01-GEO] TSC5 Pole Mount Bracket",
+        "product_id": 2,
+        "purchase_order_name": "P00005 (APSIGeos_2021_001)",
+        "purchase_order_id": 5,
+        "picking_type": "P00005",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_001-002",
+        "product_name": "[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m)",
+        "product_id": 5,
+        "purchase_order_name": "P00005 (APSIGeos_2021_001)",
+        "purchase_order_id": 5,
+        "picking_type": "P00005",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_001-003",
+        "product_name": "[121952-01-GEO] TSC5 Pole Mount Bracket",
+        "product_id": 2,
+        "purchase_order_name": "P00005 (APSIGeos_2021_001)",
+        "purchase_order_id": 5,
+        "picking_type": "P00005",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_001-003",
+        "product_name": "[89845-00] Trimble R10 Accessory - Quick Release Adapter (0.05m)",
+        "product_id": 5,
+        "purchase_order_name": "P00005 (APSIGeos_2021_001)",
+        "purchase_order_id": 5,
+        "picking_type": "P00005",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_001-004",
+        "product_name": "[121952-01-GEO] TSC5 Pole Mount Bracket",
+        "product_id": 2,
+        "purchase_order_name": "P00005 (APSIGeos_2021_001)",
+        "purchase_order_id": 5,
+        "picking_type": "P00005",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-001",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-002",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-003",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-004",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-005",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-006",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-007",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-008",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-009",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-010",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-011",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_002-012",
+        "product_name": "[58020002] Prism - 360 Prism incl height adapter to standard rod, prism const: 0.002m",
+        "product_id": 7,
+        "purchase_order_name": "P00006 (APSIGeos_2021_002)",
+        "purchase_order_id": 6,
+        "picking_type": "P00006",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_006-001",
+        "product_name": "[63610-00] Trimble Business Center Survey Advanced - Dongle License",
+        "product_id": 6,
+        "purchase_order_name": "P00007 (APSIGeos_2021_006)",
+        "purchase_order_id": 7,
+        "picking_type": "P00007",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_006-001",
+        "product_name": "[SX-BP-01] Trimble SX Backpack",
+        "product_id": 10,
+        "purchase_order_name": "P00007 (APSIGeos_2021_006)",
+        "purchase_order_id": 7,
+        "picking_type": "P00007",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_006-002",
+        "product_name": "[SX-BP-01] Trimble SX Backpack",
+        "product_id": 10,
+        "purchase_order_name": "P00007 (APSIGeos_2021_006)",
+        "purchase_order_id": 7,
+        "picking_type": "P00007",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_006-003",
+        "product_name": "[SX-BP-01] Trimble SX Backpack",
+        "product_id": 10,
+        "purchase_order_name": "P00007 (APSIGeos_2021_006)",
+        "purchase_order_id": 7,
+        "picking_type": "P00007",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_006-004",
+        "product_name": "[SX-BP-01] Trimble SX Backpack",
+        "product_id": 10,
+        "purchase_order_name": "P00007 (APSIGeos_2021_006)",
+        "purchase_order_id": 7,
+        "picking_type": "P00007",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_006-005",
+        "product_name": "[SX-BP-01] Trimble SX Backpack",
+        "product_id": 10,
+        "purchase_order_name": "P00007 (APSIGeos_2021_006)",
+        "purchase_order_id": 7,
+        "picking_type": "P00007",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2021_007-001",
+        "product_name": "[SX-BP-01] Trimble SX Backpack",
+        "product_id": 10,
+        "purchase_order_name": "P00008 (APSIGeos_2021_007)",
+        "purchase_order_id": 8,
+        "picking_type": "P00008",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_002-001",
+        "product_name": "[89840-00] Trimble R10 Accessory - Rechargeable Battery (7.4V, 3700 mAh, 27.3 Wh)",
+        "product_id": 9,
+        "purchase_order_name": "P00009 (APSIGeos_2022_002)",
+        "purchase_order_id": 9,
+        "picking_type": "P00009",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_002-001",
+        "product_name": "[99511-30] BPack,Li-Ion,INDUS,3S2P,10.8V,6500mAHr,124x74x24.8mm",
+        "product_id": 11,
+        "purchase_order_name": "P00009 (APSIGeos_2022_002)",
+        "purchase_order_id": 9,
+        "picking_type": "P00009",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_002-002",
+        "product_name": "[99511-30] BPack,Li-Ion,INDUS,3S2P,10.8V,6500mAHr,124x74x24.8mm",
+        "product_id": 11,
+        "purchase_order_name": "P00009 (APSIGeos_2022_002)",
+        "purchase_order_id": 9,
+        "picking_type": "P00009",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_002-002",
+        "product_name": "[C550100] Trimble C5 5\" Total Station, w/Trimble Access, Optical Plummet",
+        "product_id": 15,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_004-001",
+        "product_name": "[TCU5-00-TA] TCU5 with Trimble Access",
+        "product_id": 8,
+        "purchase_order_name": "P00010 (APSIGeos_2022_004)",
+        "purchase_order_id": 10,
+        "picking_type": "P00010",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_005-001",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00011 (APSIGeos_2022_005)",
+        "purchase_order_id": 11,
+        "picking_type": "P00011",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_005-002",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00011 (APSIGeos_2022_005)",
+        "purchase_order_id": 11,
+        "picking_type": "P00011",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_005-003",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00011 (APSIGeos_2022_005)",
+        "purchase_order_id": 11,
+        "picking_type": "P00011",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-001",
+        "product_name": "[C520100] Trimble C5 2\" Total Station, w/Trimble Access, Optical Plummet",
+        "product_id": 13,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-001",
+        "product_name": "[C530100] Trimble C5 3\" Total Station, w/Trimble Access, Optical Plummet",
+        "product_id": 14,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-001",
+        "product_name": "[C550100] Trimble C5 5\" Total Station, w/Trimble Access, Optical Plummet",
+        "product_id": 15,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-001",
+        "product_name": "[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod",
+        "product_id": 16,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-001",
+        "product_name": "[114111] BPack,Li-Ion,INDUS,3S2P,11.4V,8000mAHr,123x147x18.4mm",
+        "product_id": 72,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-001",
+        "product_name": "[HXE21214] Data Cable - Serial to Nikon, X-Series, Trimble C-Series",
+        "product_id": 18,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-001",
+        "product_name": "[58024021] Traverse Prism with AR Coating without Sighting Target",
+        "product_id": 19,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-002",
+        "product_name": "[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod",
+        "product_id": 16,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-002",
+        "product_name": "[114111] BPack,Li-Ion,INDUS,3S2P,11.4V,8000mAHr,123x147x18.4mm",
+        "product_id": 72,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-002",
+        "product_name": "[HXE21214] Data Cable - Serial to Nikon, X-Series, Trimble C-Series",
+        "product_id": 18,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-002",
+        "product_name": "[58024021] Traverse Prism with AR Coating without Sighting Target",
+        "product_id": 19,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-003",
+        "product_name": "[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod",
+        "product_id": 16,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-003",
+        "product_name": "[114111] BPack,Li-Ion,INDUS,3S2P,11.4V,8000mAHr,123x147x18.4mm",
+        "product_id": 72,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-003",
+        "product_name": "[HXE21214] Data Cable - Serial to Nikon, X-Series, Trimble C-Series",
+        "product_id": 18,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-003",
+        "product_name": "[58024021] Traverse Prism with AR Coating without Sighting Target",
+        "product_id": 19,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-004",
+        "product_name": "[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod",
+        "product_id": 16,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-004",
+        "product_name": "[114111] BPack,Li-Ion,INDUS,3S2P,11.4V,8000mAHr,123x147x18.4mm",
+        "product_id": 72,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-004",
+        "product_name": "[HXE21214] Data Cable - Serial to Nikon, X-Series, Trimble C-Series",
+        "product_id": 18,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_006-004",
+        "product_name": "[58024021] Traverse Prism with AR Coating without Sighting Target",
+        "product_id": 19,
+        "purchase_order_name": "P00013 (APSIGeos_2022_006)",
+        "purchase_order_id": 13,
+        "picking_type": "P00013",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_007-001",
+        "product_name": "[7073139510000] Staff - Invar rod LD 13/b, 3m, code-graduation, with wide staff base",
+        "product_id": 20,
+        "purchase_order_name": "P00014 (APSIGeos_2022_007)",
+        "purchase_order_id": 14,
+        "picking_type": "P00014",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_007-001",
+        "product_name": "[7078030000000] Footplate with steel punch",
+        "product_id": 21,
+        "purchase_order_name": "P00014 (APSIGeos_2022_007)",
+        "purchase_order_id": 14,
+        "picking_type": "P00014",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_007-001",
+        "product_name": "[59369-00] Holder - 3 pack battery holder",
+        "product_id": 22,
+        "purchase_order_name": "P00014 (APSIGeos_2022_007)",
+        "purchase_order_id": 14,
+        "picking_type": "P00014",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_007-001",
+        "product_name": "[121990-BLK-GEO] T100 Hand Strap",
+        "product_id": 23,
+        "purchase_order_name": "P00014 (APSIGeos_2022_007)",
+        "purchase_order_id": 14,
+        "picking_type": "P00014",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_007-002",
+        "product_name": "[7078030000000] Footplate with steel punch",
+        "product_id": 21,
+        "purchase_order_name": "P00014 (APSIGeos_2022_007)",
+        "purchase_order_id": 14,
+        "picking_type": "P00014",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_007-002",
+        "product_name": "[121990-BLK-GEO] T100 Hand Strap",
+        "product_id": 23,
+        "purchase_order_name": "P00014 (APSIGeos_2022_007)",
+        "purchase_order_id": 14,
+        "picking_type": "P00014",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_007-003",
+        "product_name": "[121990-BLK-GEO] T100 Hand Strap",
+        "product_id": 23,
+        "purchase_order_name": "P00014 (APSIGeos_2022_007)",
+        "purchase_order_id": 14,
+        "picking_type": "P00014",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_007-004",
+        "product_name": "[121990-BLK-GEO] T100 Hand Strap",
+        "product_id": 23,
+        "purchase_order_name": "P00014 (APSIGeos_2022_007)",
+        "purchase_order_id": 14,
+        "picking_type": "P00014",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_011-001",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00015 (APSIGeos_2022_011)",
+        "purchase_order_id": 15,
+        "picking_type": "P00015",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_011-001",
+        "product_name": "[63609-00] Trimble Business Center Survey Intermediate - Dongle License",
+        "product_id": 24,
+        "purchase_order_name": "P00015 (APSIGeos_2022_011)",
+        "purchase_order_id": 15,
+        "picking_type": "P00015",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_011-002",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00015 (APSIGeos_2022_011)",
+        "purchase_order_id": 15,
+        "picking_type": "P00015",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_011-003",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00015 (APSIGeos_2022_011)",
+        "purchase_order_id": 15,
+        "picking_type": "P00015",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_011-004",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00015 (APSIGeos_2022_011)",
+        "purchase_order_id": 15,
+        "picking_type": "P00015",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_011-005",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00015 (APSIGeos_2022_011)",
+        "purchase_order_id": 15,
+        "picking_type": "P00015",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_011-006",
+        "product_name": "[43169-00] Rod - 2.0m Carbon Fiber Range Pole with Bipod",
+        "product_id": 12,
+        "purchase_order_name": "P00015 (APSIGeos_2022_011)",
+        "purchase_order_id": 15,
+        "picking_type": "P00015",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_013-001",
+        "product_name": "[58957-05] Cable - GPS, 5m, TNC/TNC Rt. Angle",
+        "product_id": 25,
+        "purchase_order_name": "P00016 (APSIGeos_2022_013)",
+        "purchase_order_id": 16,
+        "picking_type": "P00016",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_013-001",
+        "product_name": "[52618] Accessories - TAPE MEASURE, METRIC/TENTHS",
+        "product_id": 147,
+        "purchase_order_name": "P00016 (APSIGeos_2022_013)",
+        "purchase_order_id": 16,
+        "picking_type": "P00016",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_013-001",
+        "product_name": "[121349-03] Trimble TSC7 Accessory - Pole Mount",
+        "product_id": 27,
+        "purchase_order_name": "P00016 (APSIGeos_2022_013)",
+        "purchase_order_id": 16,
+        "picking_type": "P00016",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_013-001",
+        "product_name": "[122906-BLK-GEO] T100 Pole Bracket Long Length",
+        "product_id": 28,
+        "purchase_order_name": "P00016 (APSIGeos_2022_013)",
+        "purchase_order_id": 16,
+        "picking_type": "P00016",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_013-002",
+        "product_name": "[52618] Accessories - TAPE MEASURE, METRIC/TENTHS",
+        "product_id": 147,
+        "purchase_order_name": "P00016 (APSIGeos_2022_013)",
+        "purchase_order_id": 16,
+        "picking_type": "P00016",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_013-002",
+        "product_name": "[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod",
+        "product_id": 16,
+        "purchase_order_name": "P00016 (APSIGeos_2022_013)",
+        "purchase_order_id": 16,
+        "picking_type": "P00016",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_013-002",
+        "product_name": "[122906-BLK-GEO] T100 Pole Bracket Long Length",
+        "product_id": 28,
+        "purchase_order_name": "P00016 (APSIGeos_2022_013)",
+        "purchase_order_id": 16,
+        "picking_type": "P00016",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_013_001",
+        "product_name": "[43169-30] Rod - 2.5m Carbon Fiber Telescopic Range Pole without Bipod",
+        "product_id": 16,
+        "purchase_order_name": "P00016 (APSIGeos_2022_013)",
+        "purchase_order_id": 16,
+        "picking_type": "P00016",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-001",
+        "product_name": "[110471-95] Connectivity bundle, Trimble SX Total Station to T4D (incl. Settop M1, Octohub v2, Cable kit)",
+        "product_id": 31,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-001",
+        "product_name": "[MPS865-30-MON] Kit - Monitoring, GNSS, MPS865, 4G, No Radio, with 2x Z3R Antenna (Pre-Configured) (one Z3R Delivered to Region 5)",
+        "product_id": 32,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-001",
+        "product_name": "[SETTOPM1CAB_BIG-MON] Settop M1 Cabinet (LARGE)",
+        "product_id": 33,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-001",
+        "product_name": "[LS-G6-KIO-GW-923-MON] Gateway 923 MHz, 4G module and internal 2.6 dBi antenna. Includes antenna (Asia Pacific and LATAM)",
+        "product_id": 34,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-001",
+        "product_name": "[LS-ACC-SUPGW-03-MON] Vertical Omni-Directional Outdoor Antenna Kit, 3 dBi, 915/923 MHz, 30 cm length",
+        "product_id": 35,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-001",
+        "product_name": "[LS-G6-TIL90-I-MON] Loadsensing LS-G6, Triaxial Tiltmeter Sensor, Wireless communication with Internal antenna",
+        "product_id": 36,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-001",
+        "product_name": "[LS-G6-LAS-TIL90-MON] Loadsensing LS-G6 laser-distance and tilt node",
+        "product_id": 37,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-001",
+        "product_name": "[LS-ACC-IN15-VP-MON] Wireless tiltmeter vertical mounting plate (aluminium).",
+        "product_id": 38,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-001",
+        "product_name": "[LS-ACC-IN15-HP-MON] Horizontal surface mounting plate. Options for attaching: Fasteners or glue.",
+        "product_id": 39,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-001",
+        "product_name": "[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",
+        "product_id": 40,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-002",
+        "product_name": "[LS-G6-TIL90-I-MON] Loadsensing LS-G6, Triaxial Tiltmeter Sensor, Wireless communication with Internal antenna",
+        "product_id": 36,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-002",
+        "product_name": "[LS-ACC-IN15-VP-MON] Wireless tiltmeter vertical mounting plate (aluminium).",
+        "product_id": 38,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-002",
+        "product_name": "[LS-ACC-IN15-HP-MON] Horizontal surface mounting plate. Options for attaching: Fasteners or glue.",
+        "product_id": 39,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-002",
+        "product_name": "[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",
+        "product_id": 40,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-003",
+        "product_name": "[LS-G6-TIL90-I-MON] Loadsensing LS-G6, Triaxial Tiltmeter Sensor, Wireless communication with Internal antenna",
+        "product_id": 36,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-003",
+        "product_name": "[LS-ACC-IN15-HP-MON] Horizontal surface mounting plate. Options for attaching: Fasteners or glue.",
+        "product_id": 39,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-003",
+        "product_name": "[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",
+        "product_id": 40,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-004",
+        "product_name": "[LS-G6-TIL90-I-MON] Loadsensing LS-G6, Triaxial Tiltmeter Sensor, Wireless communication with Internal antenna",
+        "product_id": 36,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-004",
+        "product_name": "[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",
+        "product_id": 40,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_015-005",
+        "product_name": "[LS-ACC-ANC-MON] Kit of 3 anchor rods and 3 chemical capsules. M8, 110 mm length, nuts and washers included.",
+        "product_id": 40,
+        "purchase_order_name": "P00017 (APSIGeos_2022_015)",
+        "purchase_order_id": 17,
+        "picking_type": "P00017",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-001",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-002",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-003",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-004",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-005",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-006",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-007",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-008",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-009",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-010",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-011",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-012",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-013",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-014",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-015",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-016",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-017",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-018",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-019",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_016-020",
+        "product_name": "[192670-25] BPack,Li-Ion,INDUS,2S1P,7.2V,2200mAHr,71x39x20.3mm",
+        "product_id": 148,
+        "purchase_order_name": "P00019 (APSIGeos-2022_016)",
+        "purchase_order_id": 19,
+        "picking_type": "P00019",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_017-001",
+        "product_name": "[SX-BP-01] Trimble SX Backpack",
+        "product_id": 10,
+        "purchase_order_name": "P00020 (APSIGeos_2022-017)",
+        "purchase_order_id": 20,
+        "picking_type": "P00020",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2022_017-002",
+        "product_name": "[SX-BP-01] Trimble SX Backpack",
+        "product_id": 10,
+        "purchase_order_name": "P00020 (APSIGeos_2022-017)",
+        "purchase_order_id": 20,
+        "picking_type": "P00020",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2023_001-001",
+        "product_name": "[52618] Accessories - TAPE MEASURE, METRIC/TENTHS",
+        "product_id": 147,
+        "purchase_order_name": "P00021 (APSIGeos_2023_001)",
+        "purchase_order_id": 21,
+        "picking_type": "P00021",
+        "quantity": 1.0
+    },
+    {
+        "serial_number": "APSIGeos_2023_001-001",
+        "product_name": "[74450-11] TDL 450H Office Power Kit",
+        "product_id": 151,
+        "purchase_order_name": "P00021 (APSIGeos_2023_001)",
+        "purchase_order_id": 21,
+        "picking_type": "P00021",
+        "quantity": 1.0
+    }
+]

@@ -40,9 +40,9 @@ def print_message(message, time_start):
 def export_inv_prod_sn_po(config:Config)->None:
     """
     This is the make export function. It does this using the following steps:
-    1. Calls export_serial_number_products() to get a list of serial numbers and their associated products. This data
+    1. Calls export_serial_number_products() to get a list of serial numbers and their associated products. This exported_data
     is stored in lots_data.
-    2. Calls export_po_data(), passing in lots_data to get a list of serial numbers and associated purchase order data.
+    2. Calls export_po_data(), passing in lots_data to get a list of serial numbers and associated purchase order exported_data.
     3. Saves the results to a CSV file and a JSON file.
     :param config: Configuration
     :return: NONE
@@ -62,10 +62,10 @@ def export_inv_prod_sn_po(config:Config)->None:
         print_message("Completed authentication. Starting export of serial numbers. ", start_time)
 
         lots_data = export_serial_number_products(models, uid, config)
-        print_message("Completed export of sn products. Starting export of purchase order data. ", start_time)
+        print_message("Completed export of sn products. Starting export of purchase order exported_data. ", start_time)
         serial_data_with_po = export_po_data(models, uid, config, lots_data)
 
-        print_message("Completed export of purchase order data. Starting export to CSV and JSON. ", start_time)
+        print_message("Completed export of purchase order exported_data. Starting export to CSV and JSON. ", start_time)
 
         export_to_csv_json(serial_data_with_po)
         print_message("Completed export to CSV and JSON. ", start_time)
@@ -83,4 +83,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+sssssss    main()

@@ -6,7 +6,7 @@ import json
 
 def export_serial_number_products(models, uid:int, config:Config):
     """
-    this returns data associate d with products with serial numbers. But why do different products have the same serial numbers?
+    this returns exported_data associate d with products with serial numbers. But why do different products have the same serial numbers?
     :param models:
     :param uid:
     :param config:
@@ -33,11 +33,11 @@ def export_serial_number_products(models, uid:int, config:Config):
 
 def export_po_data(models, uid, config:Config, lots_data):
     """
-    This takes lots_data, from the export_serial_numbers_products and returns an array of serial numbers with associated purchase order data.
+    This takes lots_data, from the export_serial_numbers_products and returns an array of serial numbers with associated purchase order exported_data.
     It does this mainly in the following steps.
     1. For each lot in lots_data,
         a. Get the move_line_ids associated with this lot. This is done with the get_move_line_info_from_lot() function.
-        b. Get po data from move_line_info and lot info using the get_serial_data_from_lot_and_move_line () function.
+        b. Get po exported_data from move_line_info and lot info using the get_serial_data_from_lot_and_move_line () function.
 
     :param models:
     :param uid:
@@ -62,7 +62,7 @@ def export_po_data(models, uid, config:Config, lots_data):
                 if serial_data:
                     serial_data_with_po.append(serial_data)
                 else:
-                    print(f"No serial data found for lot {lot['name']}.")
+                    print(f"No serial exported_data found for lot {lot['name']}.")
 
     except xmlrpc.client.Fault as err:
         print(f"XML-RPC Fault: {err.faultCode} - {err.faultString}")

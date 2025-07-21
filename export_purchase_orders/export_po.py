@@ -125,7 +125,7 @@ def export_purchase_orders(config:Config):
                 'Currency': currency_name,
                 'State': po['state'],
                 'Purchase_Representative': representative_name,
-                'Order_Lines': order_lines_details, # Nested data for JSON
+                'Order_Lines': order_lines_details, # Nested exported_data for JSON
             }
             processed_data.append(processed_po)
 
