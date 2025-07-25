@@ -36,15 +36,25 @@ def convert_product_fields(models, uid: int, config: Config, item):
         'default_code': get_product_default_code(item),
         'type': get_product_type(item),
         'uom_id': uom_id,
-        'po_uom_id': uom_id,
-
-
+        'uom_po_id': uom_id,
     }
     return product
 
 
-def import_prods_list(product_list):
-    pass
+def import_prods_list(models, uid: int, config: Config, product_list):
+
+    product_template_model = 'product.template'
+    # --- Create the Product ---
+    for product in product_list:
+        try:
+            new_product_id = models.execute_kw(
+                config.DB, uid, config.API_KEY,
+                product_template_model, 'create',
+                [product]
+            )
+            print(f"Successfully imported product '{product['name']}' with ID: {new_product_id}")
+        except xmlrpc.client.Fault as e:
+            print(f"Error importing product '{product['name']}': {e}")
 
 
 def import_all_prods(uid: int, config: Config, models):
@@ -54,7 +64,7 @@ def import_all_prods(uid: int, config: Config, models):
     for item in temp_list:
         product = convert_product_fields(models, uid, config, item)
         product_list.append(product)
-    import_prods_list(product_list)
+    import_prods_list(models=models, uid=uid, config=config, product_list=product_list)
 
 
 def main():
