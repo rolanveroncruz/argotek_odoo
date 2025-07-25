@@ -1,6 +1,6 @@
 import xmlrpc.client
 from typing import List,Dict
-from StageConfig import StageConfig as Config
+from ProdConfig import ProdConfig as Config
 import json
 
 

@@ -1,6 +1,6 @@
 import xmlrpc.client
 import json
-from StageConfig import StageConfig as Config
+from ProdConfig import ProdConfig as Config
 
 
 def get_config() -> Config:

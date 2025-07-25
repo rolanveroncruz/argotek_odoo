@@ -1,5 +1,5 @@
 import xmlrpc.client
-from StageConfig import StageConfig as Config
+from ProdConfig import ProdConfig as Config
 from import_po_accept_fns import import_all_pos
 
 
