@@ -1,5 +1,5 @@
 import xmlrpc.client
-from StageConfig import StageConfig as Config
+from ProdConfig import ProdConfig as Config
 from import_prod_utils import get_product_name, get_product_default_code, get_product_type, get_product_uom_id
 import json
 
